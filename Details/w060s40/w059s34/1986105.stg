@@ -1,0 +1,31 @@
+# piers_w060s40_w059s34_1986105
+# do not edit below this line
+# Last Written Tue Mar 26 15:44:25 2019
+#
+OBJECT_STATIC w060s40_w059s34_1986105piers1106.ac -58.50371 -33.00778 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac -58.50342 -33.00975 -0.55 78.6827
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac -58.50291 -33.00938 -0.55 120
+OBJECT_SHARED Models/Maritime/Civilian/small-red-yacht.ac -58.50429 -33.01058 -0.55 121.908
+OBJECT_SHARED Models/Maritime/Civilian/wide_red_yacht.ac -58.50415 -33.01040 -0.55 302.162
+OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac -58.50420 -33.01046 -0.55 122.176
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac -58.50492 -33.01234 3.67 26.7658
+# END piers_w060s40_w059s34_1986105
+# tree_rows_w060s40_w059s34_1986105
+# do not edit below this line
+# Last Written Tue Mar 26 15:44:25 2019
+#
+OBJECT_SHARED Models/Trees/coniferous-tree3.xml -58.50693 -33.01794 4.04 0
+OBJECT_SHARED Models/Trees/coniferous-tree3.xml -58.50683 -33.01790 3.88 0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.50673 -33.01787 3.72 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -58.50663 -33.01784 3.56 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -58.50653 -33.01780 3.40 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -58.50643 -33.01777 3.25 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -58.50633 -33.01774 3.08 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -58.50623 -33.01771 2.92 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -58.50613 -33.01767 2.77 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml -58.50599 -33.01763 3.78 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml -58.50590 -33.01759 3.99 0
+OBJECT_SHARED Models/Trees/coniferous-tree3.xml -58.50580 -33.01755 3.81 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -58.50570 -33.01751 3.62 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -58.50561 -33.01747 1.95 0
+# END tree_rows_w060s40_w059s34_1986105

@@ -1,0 +1,8 @@
+# pylons_w060s40_w059s35_1985994
+# do not edit below this line
+# Last Written Tue Mar 26 16:58:48 2019
+#
+OBJECT_SHARED Models/Industrial/brick_chimney_502m.ac -58.42578 -34.83803 -364.37 450
+OBJECT_SHARED Models/Industrial/TPS_Drujba2_chimney.ac -58.42576 -34.83801 10.36 450
+OBJECT_SHARED Models/Industrial/TPS_Drujba2_chimney.ac -58.25488 -34.77710 13.57 450
+# END pylons_w060s40_w059s35_1985994

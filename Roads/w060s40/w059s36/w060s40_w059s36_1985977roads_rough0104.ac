@@ -1,0 +1,33 @@
+AC3Db
+MATERIAL "unlit" rgb 0.000 0.000 0.000 amb 1 1 1 emis 0 0 0 spec 0.5 0.5 0.5 shi 64 trans 0
+MATERIAL "lit" rgb 1.000 1.000 1.000 amb 1 1 1 emis 0 0 0 spec 0.5 0.5 0.5 shi 64 trans 0
+OBJECT world
+kids 1
+OBJECT poly
+name "w060s40_w059s36_1985977roads_rough0104"
+texture "Textures/osm2city/roads.png"
+numvert 8
+-112.303 0.116 -424.332
+-127.28 0.116 -416.533
+-115.998 0.117 -431.428
+-130.975 0.118 -423.629
+-114.606 0.114 -406.153
+-102.303 0.114 -412.392
+-110.988 0.113 -399.018
+-98.6846 0.112 -405.257
+numsurf 2
+SURF 0
+mat 0
+refs 4
+2 0.375 0
+3 0.375 0.5277
+1 0.25 0.5277
+0 0.25 0
+SURF 0
+mat 0
+refs 4
+6 0.375 0
+7 0.375 0.4311
+5 0.25 0.4311
+4 0.25 0
+kids 0

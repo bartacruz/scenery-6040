@@ -1,0 +1,111 @@
+# piers_w060s40_w058s35_2002376
+# do not edit below this line
+# Last Written Tue Mar 26 18:11:04 2019
+#
+OBJECT_STATIC w060s40_w058s35_2002376piers0103.ac -57.96721 -34.81190 0.00 0
+OBJECT_STATIC w060s40_w058s35_2002376piers0301.ac -57.92349 -34.84796 0.00 0
+OBJECT_STATIC w060s40_w058s35_2002376piers0500.ac -57.87978 -34.86599 0.00 0
+OBJECT_STATIC w060s40_w058s35_2002376piers0502.ac -57.87978 -34.82993 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac -57.87884 -34.83462 0.00 288.537
+OBJECT_SHARED Models/Maritime/Civilian/small-red-yacht.ac -57.88048 -34.83375 0.00 117.18
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac -57.88333 -34.86282 3.08 244.807
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -57.97568 -34.81287 -0.33 -129.752
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -57.97428 -34.81148 -0.33 -131.418
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -57.97328 -34.81044 -0.33 -131.461
+OBJECT_SHARED Models/Maritime/Civilian/small-clear-yacht.ac -57.92046 -34.83964 0.00 181.176
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac -57.92090 -34.83962 0.00 172.277
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-11m.ac -57.92158 -34.83969 0.00 172.497
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -57.92212 -34.83971 0.00 0.0960015
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -57.92196 -34.84048 0.00 1.00528
+OBJECT_SHARED Models/Maritime/Civilian/small-red-yacht.ac -57.92254 -34.83976 -0.00 167.441
+OBJECT_SHARED Models/Maritime/Civilian/small-red-yacht.ac -57.92297 -34.83980 -0.00 164.657
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac -57.92339 -34.83989 0.00 162.134
+OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac -57.92400 -34.83998 -0.00 155.289
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac -57.92383 -34.84011 -0.00 95.7786
+# END piers_w060s40_w058s35_2002376
+# tree_rows_w060s40_w058s35_2002376
+# do not edit below this line
+# Last Written Tue Mar 26 18:11:04 2019
+#
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml -57.89688 -34.85811 4.62 0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -57.89682 -34.85797 4.44 0
+OBJECT_SHARED Models/Trees/coniferous-tree3.xml -57.89678 -34.85787 4.34 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -57.89662 -34.85789 4.77 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -57.89663 -34.85779 4.53 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml -57.89662 -34.85768 4.30 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml -57.89669 -34.85770 4.17 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml -57.89671 -34.85764 3.99 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml -57.92720 -34.84852 5.95 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -57.92713 -34.84846 6.00 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -57.92705 -34.84840 6.05 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -57.92697 -34.84833 6.09 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -57.92689 -34.84827 6.14 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -57.92682 -34.84820 6.19 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -57.92674 -34.84814 6.23 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -57.92666 -34.84808 6.28 0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -57.92659 -34.84801 6.33 0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -57.92651 -34.84795 6.37 0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -57.92643 -34.84788 6.42 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -57.92635 -34.84782 6.47 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -57.92628 -34.84776 6.51 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml -57.92620 -34.84769 6.56 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml -57.92612 -34.84763 6.47 0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -57.92605 -34.84756 6.30 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -57.92597 -34.84750 6.12 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -57.92589 -34.84744 5.93 0
+OBJECT_SHARED Models/Trees/coniferous-tree3.xml -57.92581 -34.84737 5.75 0
+OBJECT_SHARED Models/Trees/coniferous-tree3.xml -57.92574 -34.84731 5.56 0
+OBJECT_SHARED Models/Trees/coniferous-tree3.xml -57.92566 -34.84724 5.37 0
+OBJECT_SHARED Models/Trees/coniferous-tree3.xml -57.92558 -34.84718 5.18 0
+OBJECT_SHARED Models/Trees/coniferous-tree3.xml -57.92551 -34.84712 4.99 0
+OBJECT_SHARED Models/Trees/coniferous-tree3.xml -57.92543 -34.84705 4.80 0
+OBJECT_SHARED Models/Trees/coniferous-tree3.xml -57.92535 -34.84699 4.62 0
+OBJECT_SHARED Models/Trees/coniferous-tree3.xml -57.92527 -34.84692 4.49 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -57.92520 -34.84686 4.46 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -57.92512 -34.84680 4.43 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -57.92504 -34.84673 4.40 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -57.92497 -34.84667 4.37 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -57.92489 -34.84660 4.34 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -57.92481 -34.84654 4.31 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -57.92473 -34.84648 4.28 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -57.92461 -34.84637 4.23 0
+OBJECT_SHARED Models/Trees/coniferous-tree3.xml -57.92452 -34.84629 4.19 0
+OBJECT_SHARED Models/Trees/coniferous-tree3.xml -57.92448 -34.84622 4.16 0
+OBJECT_SHARED Models/Trees/coniferous-tree3.xml -57.92449 -34.84616 4.14 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -57.92458 -34.84611 4.13 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -57.92469 -34.84608 4.12 0
+OBJECT_SHARED Models/Trees/coniferous-tree3.xml -57.92480 -34.84607 4.13 0
+OBJECT_SHARED Models/Trees/coniferous-tree3.xml -57.92713 -34.84858 6.01 0
+OBJECT_SHARED Models/Trees/coniferous-tree3.xml -57.92705 -34.84852 6.06 0
+OBJECT_SHARED Models/Trees/coniferous-tree3.xml -57.92697 -34.84846 6.11 0
+OBJECT_SHARED Models/Trees/coniferous-tree3.xml -57.92690 -34.84839 6.15 0
+OBJECT_SHARED Models/Trees/coniferous-tree3.xml -57.92682 -34.84833 6.20 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -57.92674 -34.84826 6.24 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -57.92667 -34.84820 6.29 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -57.92659 -34.84814 6.34 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -57.92651 -34.84807 6.38 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -57.92643 -34.84801 6.43 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -57.92636 -34.84794 6.48 0
+OBJECT_SHARED Models/Trees/coniferous-tree3.xml -57.92628 -34.84788 6.52 0
+OBJECT_SHARED Models/Trees/coniferous-tree3.xml -57.92620 -34.84782 6.57 0
+OBJECT_SHARED Models/Trees/coniferous-tree3.xml -57.92613 -34.84775 6.61 0
+OBJECT_SHARED Models/Trees/coniferous-tree3.xml -57.92605 -34.84769 6.43 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml -57.92597 -34.84762 6.26 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml -57.92589 -34.84756 6.08 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -57.92582 -34.84750 5.89 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -57.92574 -34.84743 5.70 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -57.92566 -34.84737 5.51 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -57.92559 -34.84730 5.32 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -57.92551 -34.84724 5.13 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -57.92543 -34.84718 4.95 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -57.92535 -34.84711 4.75 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -57.92528 -34.84705 4.57 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -57.92520 -34.84698 4.51 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -57.92512 -34.84692 4.48 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -57.92505 -34.84686 4.45 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml -57.92497 -34.84679 4.42 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml -57.92489 -34.84673 4.39 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -57.92481 -34.84666 4.36 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -57.92474 -34.84660 4.33 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -57.92466 -34.84654 4.30 0
+# END tree_rows_w060s40_w058s35_2002376

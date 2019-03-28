@@ -1,0 +1,12 @@
+# pylons_w060s40_w059s35_1986009
+# do not edit below this line
+# Last Written Tue Mar 26 17:00:29 2019
+#
+OBJECT_SHARED Models/Power/windturbine.xml -58.59271 -34.52526 5.89 0
+OBJECT_SHARED Models/Power/windturbine.xml -58.59243 -34.52436 6.66 0
+OBJECT_SHARED Models/Power/windturbine.xml -58.59256 -34.52481 6.49 0
+OBJECT_SHARED Models/Industrial/brick_chimney_502m.ac -58.53184 -34.58755 -363.07 450
+OBJECT_SHARED Models/Industrial/TPS_Drujba2_chimney.ac -58.56294 -34.62457 13.71 450
+OBJECT_SHARED Models/Industrial/TPS_Drujba2_chimney.ac -58.58026 -34.61237 26.61 450
+OBJECT_SHARED Models/Industrial/brick_chimney_502m.ac -58.51696 -34.58208 -356.73 450
+# END pylons_w060s40_w059s35_1986009
