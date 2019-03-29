@@ -12,6 +12,8 @@ A view of Puerto Madero in Buenos Aires:
 
 Clone or download and unzip, then add the folder as a scenery folder in FlightGear.
 
+**IMPORTANT**: The `Details` folder must be renamed or linked to `Obejcts`. If you already have an `Objects` folder, copy the contents of `Details` into it.
+
 #### From command line
 
 Use the `--fg-scenery` option:
