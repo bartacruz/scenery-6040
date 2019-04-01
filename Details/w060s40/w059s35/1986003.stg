@@ -1,37 +1,37 @@
 # piers_w060s40_w059s35_1986003
 # do not edit below this line
-# Last Written Tue Mar 26 17:10:21 2019
+# Last Written Sun Mar 31 20:41:15 2019
 #
 OBJECT_STATIC w060s40_w059s35_1986003piers0102.ac -58.21726 -34.70493 0.00 0
-OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac -58.22104 -34.70900 -3.15 55.4827
-OBJECT_SHARED Models/Maritime/Civilian/LargeTrawler.xml -58.21940 -34.70805 -3.15 -115.247
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac -58.22104 -34.70900 -3.90 55.4827
+OBJECT_SHARED Models/Maritime/Civilian/LargeTrawler.xml -58.21940 -34.70805 -3.90 -115.247
 # END piers_w060s40_w059s35_1986003
 # tree_rows_w060s40_w059s35_1986003
 # do not edit below this line
-# Last Written Tue Mar 26 17:10:21 2019
+# Last Written Sun Mar 31 20:41:16 2019
 #
-OBJECT_SHARED Models/Trees/deciduous-tree.xml -58.21889 -34.71768 4.37 0
-OBJECT_SHARED Models/Trees/deciduous-tree.xml -58.21882 -34.71761 4.18 0
-OBJECT_SHARED Models/Trees/deciduous-tree.xml -58.21875 -34.71754 4.00 0
-OBJECT_SHARED Models/Trees/deciduous-tree.xml -58.21868 -34.71747 3.81 0
-OBJECT_SHARED Models/Trees/deciduous-tree.xml -58.21861 -34.71740 3.63 0
-OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.21854 -34.71733 3.45 0
-OBJECT_SHARED Models/Trees/deciduous-tree2.xml -58.21847 -34.71726 3.26 0
-OBJECT_SHARED Models/Trees/deciduous-tree2.xml -58.21840 -34.71719 3.08 0
-OBJECT_SHARED Models/Trees/deciduous-tree2.xml -58.21834 -34.71712 2.90 0
-OBJECT_SHARED Models/Trees/deciduous-tree2.xml -58.21827 -34.71705 2.72 0
-OBJECT_SHARED Models/Trees/deciduous-tree2.xml -58.21820 -34.71698 2.53 0
-OBJECT_SHARED Models/Trees/deciduous-tree2.xml -58.21736 -34.71789 3.03 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml -58.21729 -34.71781 3.04 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml -58.21722 -34.71774 3.05 0
-OBJECT_SHARED Models/Trees/coniferous-tree3.xml -58.21716 -34.71767 3.06 0
-OBJECT_SHARED Models/Trees/deciduous-tree2.xml -58.21709 -34.71760 3.07 0
-OBJECT_SHARED Models/Trees/deciduous-tree2.xml -58.21702 -34.71753 3.08 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml -58.21696 -34.71746 3.08 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml -58.21689 -34.71739 3.10 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml -58.21682 -34.71731 3.10 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml -58.21676 -34.71724 3.11 0
-OBJECT_SHARED Models/Trees/deciduous-tree.xml -58.21669 -34.71717 3.12 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -58.21889 -34.71768 3.93 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -58.21882 -34.71761 3.66 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -58.21875 -34.71754 3.53 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -58.21868 -34.71747 3.40 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -58.21861 -34.71740 3.27 0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.21854 -34.71733 3.15 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -58.21847 -34.71726 3.02 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -58.21840 -34.71719 2.89 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -58.21834 -34.71712 2.76 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -58.21827 -34.71705 2.63 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -58.21820 -34.71698 2.50 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -58.21736 -34.71789 3.14 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml -58.21729 -34.71781 3.15 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml -58.21722 -34.71774 3.16 0
+OBJECT_SHARED Models/Trees/coniferous-tree3.xml -58.21716 -34.71767 3.17 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -58.21709 -34.71760 3.18 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -58.21702 -34.71753 3.18 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml -58.21696 -34.71746 3.19 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml -58.21689 -34.71739 3.20 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml -58.21682 -34.71731 3.21 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml -58.21676 -34.71724 3.22 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -58.21669 -34.71717 3.23 0
 OBJECT_SHARED Models/Trees/deciduous-tree.xml -58.24445 -34.69864 3.75 0
 OBJECT_SHARED Models/Trees/deciduous-tree.xml -58.24443 -34.69873 3.76 0
 OBJECT_SHARED Models/Trees/deciduous-tree.xml -58.24441 -34.69882 3.76 0

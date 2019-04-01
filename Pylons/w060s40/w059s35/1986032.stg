@@ -1,30 +1,59 @@
 # pylons_w060s40_w059s35_1986032
 # do not edit below this line
-# Last Written Wed Mar 27 23:50:43 2019
+# Last Written Sun Mar 31 19:48:11 2019
 #
 OBJECT_SHARED Models/Industrial/KOFF_Tank_30M.ac -58.94692 -34.15823 5.34 0
 OBJECT_SHARED Models/Industrial/generic_tank_040m_grey.ac -58.94699 -34.15761 -67.75 0
 OBJECT_SHARED Models/Industrial/generic_tank_040m_grey.ac -58.94692 -34.15667 -67.97 0
+OBJECT_SHARED Models/Industrial/generic_tank_040m_grey.ac -58.94732 -34.16492 -66.73 0
+OBJECT_SHARED Models/Industrial/generic_tank_040m_grey.ac -58.94634 -34.16569 -66.20 0
 OBJECT_SHARED Models/Industrial/generic_tank_040m_grey.ac -58.94015 -34.15778 -67.74 0
-OBJECT_SHARED Models/Industrial/generic_tank_040m_grey.ac -58.94563 -34.15660 -67.99 0
+OBJECT_SHARED Models/Industrial/generic_tank_040m_grey.ac -58.94923 -34.16331 -66.74 0
+OBJECT_SHARED Models/Industrial/generic_tank_040m_grey.ac -58.94563 -34.15660 -67.98 0
 OBJECT_SHARED Models/Industrial/generic_tank_040m_grey.ac -58.94587 -34.15794 -67.98 0
+OBJECT_SHARED Models/Industrial/generic_tank_050m_grey.ac -58.94556 -34.16737 -64.01 0
 OBJECT_SHARED Models/Industrial/generic_tank_040m_grey.ac -58.94497 -34.15810 -68.39 0
 OBJECT_SHARED Models/Industrial/generic_tank_040m_grey.ac -58.94448 -34.15667 -68.64 0
+OBJECT_SHARED Models/Industrial/generic_tank_040m_grey.ac -58.94807 -34.16028 -67.28 0
+OBJECT_SHARED Models/Industrial/generic_tank_040m_grey.ac -58.94809 -34.16119 -67.15 0
+OBJECT_SHARED Models/Industrial/generic_tank_040m_grey.ac -58.94725 -34.16420 -67.24 0
+OBJECT_SHARED Models/Industrial/generic_tank_040m_grey.ac -58.94824 -34.16288 -67.00 0
+OBJECT_SHARED Models/Industrial/generic_tank_040m_grey.ac -58.94654 -34.16664 -66.69 0
+OBJECT_SHARED Models/Industrial/generic_tank_040m_grey.ac -58.94840 -34.16459 -66.81 0
 OBJECT_SHARED Models/Industrial/generic_tank_040m_grey.ac -58.94109 -34.15766 -68.31 0
+OBJECT_SHARED Models/Industrial/generic_tank_040m_grey.ac -58.94974 -34.16255 -66.82 0
 OBJECT_SHARED Models/Industrial/generic_tank_040m_grey.ac -58.94618 -34.15943 -67.91 0
+OBJECT_SHARED Models/Industrial/generic_tank_050m_grey.ac -58.94460 -34.16604 -64.58 0
 OBJECT_SHARED Models/Industrial/generic_tank_040m_grey.ac -58.94433 -34.15589 -68.73 0
 OBJECT_SHARED Models/Industrial/generic_tank_040m_grey.ac -58.94786 -34.15767 -67.74 0
+OBJECT_SHARED Models/Industrial/generic_tank_040m_grey.ac -58.94700 -34.16254 -67.43 0
+OBJECT_SHARED Models/Industrial/generic_tank_040m_grey.ac -58.94674 -34.16110 -67.61 0
+OBJECT_SHARED Models/Industrial/generic_tank_040m_grey.ac -58.94832 -34.16374 -66.91 0
 OBJECT_SHARED Models/Industrial/generic_tank_040m_grey.ac -58.94603 -34.15868 -68.00 0
+OBJECT_SHARED Models/Industrial/generic_tank_040m_grey.ac -58.94819 -34.16202 -67.02 0
 OBJECT_SHARED Models/Industrial/generic_tank_040m_grey.ac -58.94693 -34.15895 -67.56 0
 OBJECT_SHARED Models/Industrial/generic_tank_040m_grey.ac -58.94801 -34.15942 -67.41 0
 OBJECT_SHARED Models/Industrial/generic_tank_040m_grey.ac -58.94794 -34.15858 -67.54 0
 OBJECT_SHARED Models/Industrial/generic_tank_040m_grey.ac -58.94887 -34.15998 -67.27 0
+OBJECT_SHARED Models/Industrial/generic_tank_040m_grey.ac -58.94690 -34.16180 -67.51 0
+OBJECT_SHARED Models/Industrial/generic_tank_040m_grey.ac -58.94642 -34.16019 -67.78 0
+OBJECT_SHARED Models/Industrial/generic_tank_040m_grey.ac -58.94919 -34.16190 -66.96 0
 OBJECT_SHARED Models/Industrial/generic_tank_040m_grey.ac -58.94699 -34.15970 -67.45 0
-OBJECT_SHARED Models/Industrial/KOFF_Tank_10M.ac -58.97495 -34.15131 5.87 0
-OBJECT_SHARED Models/Industrial/KOFF_Tank_13M.ac -58.97618 -34.15061 5.89 0
-OBJECT_SHARED Models/Industrial/KOFF_Tank_20M.ac -58.97557 -34.15075 5.69 0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_10M.ac -58.97495 -34.15131 4.91 0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_13M.ac -58.97618 -34.15061 5.79 0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_20M.ac -58.97557 -34.15075 5.52 0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_30M.ac -58.92364 -34.17394 0.66 0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_30M.ac -58.92425 -34.17448 0.62 0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_30M.ac -58.92495 -34.17511 0.43 0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_30M.ac -58.92576 -34.17586 1.74 0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_30M.ac -58.92646 -34.17653 2.85 0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_30M.ac -58.92331 -34.17607 1.03 0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_30M.ac -58.92276 -34.17553 1.62 0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_30M.ac -58.92213 -34.17493 1.02 0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_20M.ac -58.91937 -34.17259 -0.04 0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_20M.ac -58.91914 -34.17237 -0.04 0
 OBJECT_SHARED Models/Industrial/KOFF_Tank_12M.ac -58.92129 -34.15709 3.36 0
-OBJECT_SHARED Models/Industrial/KOFF_Tank_12M.ac -58.92117 -34.15719 3.43 0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_12M.ac -58.92117 -34.15719 3.42 0
 OBJECT_SHARED Models/Industrial/KOFF_Tank_12M.ac -58.92104 -34.15729 3.49 0
 OBJECT_SHARED Models/Industrial/KOFF_Tank_12M.ac -58.92090 -34.15737 3.55 0
 OBJECT_SHARED Models/Industrial/KOFF_Tank_12M.ac -58.92142 -34.15720 3.48 0
