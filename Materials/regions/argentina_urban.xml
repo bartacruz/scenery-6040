@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<PropertyList>
+  <name>Argentina Urban</name>
+  
+  <area>
+    <lon1>-70.00</lon1>
+    <lon2>-40.00</lon2>
+    <lat1>-40.00</lat1>
+    <lat2>-30.00</lat2>
+  </area>
+
+  <material>
+    <name>BuiltUpCover</name>
+    <name>Construction</name>
+    <texture>Terrain/gravel_gray.png</texture>
+    <!--    <texture>Runway/pa_tiedown.png</texture> -->
+    <xsize>200</xsize>
+    <ysize>200</ysize>
+    <light-coverage>1000000.0</light-coverage>
+		<emissive>
+		 <r>0.05</r>
+		 <g>0.05</g>
+		 <b>0.02</b>
+		 <a>1.0</a>
+		</emissive>
+  </material>
+
+	<material>		
+		<name>Port</name>		
+		<effect>Effects/urban</effect>
+		<texture-set>
+		  <texture>Terrain/california-port.png</texture>
+		</texture-set>    
+		<xsize>500</xsize>
+		<ysize>500</ysize>
+		<light-coverage>1000000.0</light-coverage>
+		<emissive>
+		 <r>0.05</r>
+		 <g>0.05</g>
+		 <b>0.02</b>
+		 <a>1.0</a>
+		</emissive>
+		<object-group include="Materials/base/industrial-buildings.xml"/>
+	</material>
+  <material>
+    <name>Urban</name>
+    <effect>Effects/urban</effect>
+    <texture-set>
+      <texture>Terrain/city1.png</texture>
+      <texture n="2">Terrain/city1-relief-light.png</texture>
+    </texture-set>
+    <texture-set>
+      <texture>Terrain/city2.png</texture>
+      <texture n="2">Terrain/city2-relief-light.png</texture>
+    </texture-set>
+    <object-mask>Terrain/city1.mask.png</object-mask>
+    <object-mask>Terrain/city2.mask.png</object-mask>
+    <xsize>1000</xsize>
+    <ysize>1000</ysize>
+    <light-coverage>100000.0</light-coverage>
+    <emissive>
+      <r>0.05</r>
+      <g>0.05</g>
+      <b>0.02</b>
+      <a>1.0</a>
+    </emissive>
+    <object-group include="Materials/base/urban-buildings.xml"/>
+    <building-coverage>2500.0</building-coverage>
+    <building-small-ratio>0.4</building-small-ratio>
+    <building-small-min-floors>3</building-small-min-floors>
+    <building-small-max-width-m>30.0</building-small-max-width-m>
+    <building-small-min-depth-m>10.0</building-small-min-depth-m>
+    <building-small-max-depth-m>30.0</building-small-max-depth-m>
+    <building-medium-ratio>0.6</building-medium-ratio>
+    <building-large-ratio>0.2</building-large-ratio>
+    <wood-coverage>2500.0</wood-coverage>
+    <tree-texture>Trees/mixed.png</tree-texture>
+    <tree-varieties>8</tree-varieties>
+    <tree-height-m>25.0</tree-height-m>
+    <tree-width-m>15.0</tree-width-m>
+  </material>
+
+  <material>
+    <name>Town</name>
+    <name>SubUrban</name>
+    <effect>Effects/urban</effect>
+    <texture-set>
+      <texture>Terrain/california-town.png</texture>
+      <texture n="2">Terrain/california-town-relief-light.png</texture>
+    </texture-set>    
+    <xsize>800</xsize>
+    <ysize>800</ysize>
+    <light-coverage>100000.0</light-coverage>
+    <emissive>
+      <r>0.05</r>
+      <g>0.05</g>
+      <b>0.02</b>
+      <a>1.0</a>
+    </emissive>
+    <object-group include="Materials/base/town-buildings.xml"/>
+    <building-coverage>500.0</building-coverage>
+    <building-small-ratio>0.9</building-small-ratio>
+    <building-medium-ratio>0.1</building-medium-ratio>
+    <building-large-ratio>0.0</building-large-ratio>
+    <building-medium-max-floors>4</building-medium-max-floors>
+    <building-texture>Textures/buildings.png</building-texture>
+    <building-lightmap>Textures/buildings-lightmap.png</building-lightmap>
+    <wood-coverage>10000.0</wood-coverage>
+    <tree-texture>Trees/deciduous.png</tree-texture>
+    <tree-varieties>8</tree-varieties>
+    <tree-height-m>15.0</tree-height-m>
+    <tree-width-m>10.0</tree-width-m>
+  </material>
+  
+	<material>
+		<name>Industrial</name>
+		<effect>Effects/urban</effect>
+		<texture-set>
+      <texture>Terrain/california-industry.png</texture>
+      <texture n="2">Terrain/california-industry-relief-light.png</texture>
+    </texture-set>
+		<xsize>1000</xsize>
+		<ysize>1000</ysize>
+		<light-coverage>100000.0</light-coverage>
+		<emissive>
+		 <r>0.05</r>
+		 <g>0.05</g>
+		 <b>0.02</b>
+		 <a>1.0</a>
+		</emissive>
+		<object-group include="Materials/base/industrial-buildings.xml"/>
+	</material>
+</PropertyList>

@@ -1,17 +1,17 @@
 # piers_w060s40_w059s34_1986099
 # do not edit below this line
-# Last Written Tue Mar 26 15:44:47 2019
+# Last Written Tue Apr  2 01:15:32 2019
 #
 OBJECT_STATIC w060s40_w059s34_1986099piers1000.ac -58.02481 -33.24098 0.00 0
-OBJECT_SHARED Models/Maritime/Civilian/wide_red_yacht.ac -58.02920 -33.24295 -0.00 182.061
+OBJECT_SHARED Models/Maritime/Civilian/wide_red_yacht.ac -58.02920 -33.24295 0.00 182.061
 OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac -58.02861 -33.24290 0.00 166.215
 OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac -58.02809 -33.24258 0.00 151.25
 OBJECT_SHARED Models/Maritime/Civilian/small-clear-yacht.ac -58.03158 -33.24322 -0.00 78.3605
 OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -58.03131 -33.24355 -0.00 -3.621
 OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac -58.02933 -33.24277 -0.00 29.4129
 OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac -58.02918 -33.24277 -0.00 29.4764
-OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac -58.02877 -33.24270 0.00 17.0622
-OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac -58.02863 -33.24267 0.00 17.0136
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac -58.02877 -33.24270 -0.00 17.0622
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac -58.02863 -33.24267 -0.00 17.0136
 OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac -58.02753 -33.24228 0.00 18.3329
 OBJECT_SHARED Models/Maritime/Civilian/blue-sailing-boat-20m.ac -58.02738 -33.24250 0.00 168.166
 # END piers_w060s40_w059s34_1986099

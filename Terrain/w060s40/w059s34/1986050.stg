@@ -1,1 +1,5 @@
 OBJECT_BASE 1986050.btg
+OBJECT SULO.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -58.289726 -33.959116 20.8 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -58.286942 -33.968664 18.9 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -58.287778 -33.963758 21.7 0.00

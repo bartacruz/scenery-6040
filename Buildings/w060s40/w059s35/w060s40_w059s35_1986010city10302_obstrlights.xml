@@ -6,7 +6,7 @@
   <offsets>
     <x-m>-533.566</x-m>
     <y-m>236.09</y-m>
-    <z-m>174.421</z-m>
+    <z-m>176.693</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -17,7 +17,7 @@
   <offsets>
     <x-m>-552.131</x-m>
     <y-m>199.094</y-m>
-    <z-m>174.421</z-m>
+    <z-m>176.693</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -28,7 +28,7 @@
   <offsets>
     <x-m>-530.588</x-m>
     <y-m>188.283</y-m>
-    <z-m>174.421</z-m>
+    <z-m>176.693</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -39,7 +39,7 @@
   <offsets>
     <x-m>-512.023</x-m>
     <y-m>225.28</y-m>
-    <z-m>174.421</z-m>
+    <z-m>176.693</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -50,7 +50,7 @@
   <offsets>
     <x-m>-570.969</x-m>
     <y-m>139.365</y-m>
-    <z-m>77.4299</z-m>
+    <z-m>79.7019</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -61,7 +61,7 @@
   <offsets>
     <x-m>-599.237</x-m>
     <y-m>153.372</y-m>
-    <z-m>77.4299</z-m>
+    <z-m>79.7019</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -72,7 +72,7 @@
   <offsets>
     <x-m>-606.681</x-m>
     <y-m>138.349</y-m>
-    <z-m>77.4299</z-m>
+    <z-m>79.7019</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -83,7 +83,7 @@
   <offsets>
     <x-m>-578.412</x-m>
     <y-m>124.342</y-m>
-    <z-m>77.4299</z-m>
+    <z-m>79.7019</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -94,7 +94,7 @@
   <offsets>
     <x-m>-497.08</x-m>
     <y-m>268.753</y-m>
-    <z-m>92.141</z-m>
+    <z-m>94.413</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -105,7 +105,7 @@
   <offsets>
     <x-m>-477.652</x-m>
     <y-m>302.994</y-m>
-    <z-m>92.141</z-m>
+    <z-m>94.413</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -116,7 +116,7 @@
   <offsets>
     <x-m>-497.502</x-m>
     <y-m>314.257</y-m>
-    <z-m>92.141</z-m>
+    <z-m>94.413</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -127,7 +127,7 @@
   <offsets>
     <x-m>-516.931</x-m>
     <y-m>280.015</y-m>
-    <z-m>92.141</z-m>
+    <z-m>94.413</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -138,7 +138,7 @@
   <offsets>
     <x-m>-570.618</x-m>
     <y-m>-4.07261</y-m>
-    <z-m>68.8545</z-m>
+    <z-m>71.1265</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -149,7 +149,7 @@
   <offsets>
     <x-m>-612.322</x-m>
     <y-m>12.9238</y-m>
-    <z-m>68.8545</z-m>
+    <z-m>71.1265</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -160,7 +160,7 @@
   <offsets>
     <x-m>-619.821</x-m>
     <y-m>-5.47632</y-m>
-    <z-m>68.8545</z-m>
+    <z-m>71.1265</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -171,7 +171,7 @@
   <offsets>
     <x-m>-578.118</x-m>
     <y-m>-22.4728</y-m>
-    <z-m>68.8545</z-m>
+    <z-m>71.1265</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -182,7 +182,7 @@
   <offsets>
     <x-m>-524.125</x-m>
     <y-m>121.906</y-m>
-    <z-m>74.8773</z-m>
+    <z-m>77.1493</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -193,7 +193,7 @@
   <offsets>
     <x-m>-552.909</x-m>
     <y-m>135.838</y-m>
-    <z-m>74.8773</z-m>
+    <z-m>77.1493</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -204,7 +204,7 @@
   <offsets>
     <x-m>-561.295</x-m>
     <y-m>118.512</y-m>
-    <z-m>74.8773</z-m>
+    <z-m>77.1493</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -215,7 +215,7 @@
   <offsets>
     <x-m>-532.511</x-m>
     <y-m>104.58</y-m>
-    <z-m>74.8773</z-m>
+    <z-m>77.1493</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -226,7 +226,7 @@
   <offsets>
     <x-m>-390.23</x-m>
     <y-m>-1.97309</y-m>
-    <z-m>58.7651</z-m>
+    <z-m>61.0371</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -237,7 +237,7 @@
   <offsets>
     <x-m>-420.185</x-m>
     <y-m>21.9718</y-m>
-    <z-m>58.7651</z-m>
+    <z-m>61.0371</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -248,7 +248,7 @@
   <offsets>
     <x-m>-426.55</x-m>
     <y-m>14.0088</y-m>
-    <z-m>58.7651</z-m>
+    <z-m>61.0371</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -259,7 +259,7 @@
   <offsets>
     <x-m>-396.595</x-m>
     <y-m>-9.93614</y-m>
-    <z-m>58.7651</z-m>
+    <z-m>61.0371</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -270,7 +270,7 @@
   <offsets>
     <x-m>-335.75</x-m>
     <y-m>-83.1039</y-m>
-    <z-m>76.9606</z-m>
+    <z-m>79.2326</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -281,7 +281,7 @@
   <offsets>
     <x-m>-348.23</x-m>
     <y-m>-100.118</y-m>
-    <z-m>76.9606</z-m>
+    <z-m>79.2326</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -292,7 +292,7 @@
   <offsets>
     <x-m>-331.421</x-m>
     <y-m>-112.447</y-m>
-    <z-m>76.9606</z-m>
+    <z-m>79.2326</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -303,7 +303,7 @@
   <offsets>
     <x-m>-318.941</x-m>
     <y-m>-95.4328</y-m>
-    <z-m>76.9606</z-m>
+    <z-m>79.2326</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -314,7 +314,7 @@
   <offsets>
     <x-m>-359.7</x-m>
     <y-m>-94.5457</y-m>
-    <z-m>81.8522</z-m>
+    <z-m>84.1242</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -325,7 +325,7 @@
   <offsets>
     <x-m>-403.151</x-m>
     <y-m>-77.7959</y-m>
-    <z-m>81.8522</z-m>
+    <z-m>84.1242</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -336,7 +336,7 @@
   <offsets>
     <x-m>-408.952</x-m>
     <y-m>-92.8424</y-m>
-    <z-m>81.8522</z-m>
+    <z-m>84.1242</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -347,51 +347,7 @@
   <offsets>
     <x-m>-365.5</x-m>
     <y-m>-109.592</y-m>
-    <z-m>81.8522</z-m>
-    <pitch-deg> 0.00</pitch-deg>
-    <heading-deg>0.0 </heading-deg>
-  </offsets>
-</model>
-
-<model>
-  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
-  <offsets>
-    <x-m>-2503.08</x-m>
-    <y-m>3616.23</y-m>
-    <z-m>82.9596</z-m>
-    <pitch-deg> 0.00</pitch-deg>
-    <heading-deg>0.0 </heading-deg>
-  </offsets>
-</model>
-
-<model>
-  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
-  <offsets>
-    <x-m>-2544.24</x-m>
-    <y-m>3656.44</y-m>
-    <z-m>82.9596</z-m>
-    <pitch-deg> 0.00</pitch-deg>
-    <heading-deg>0.0 </heading-deg>
-  </offsets>
-</model>
-
-<model>
-  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
-  <offsets>
-    <x-m>-2568.37</x-m>
-    <y-m>3625.33</y-m>
-    <z-m>82.9596</z-m>
-    <pitch-deg> 0.00</pitch-deg>
-    <heading-deg>0.0 </heading-deg>
-  </offsets>
-</model>
-
-<model>
-  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
-  <offsets>
-    <x-m>-2534.31</x-m>
-    <y-m>3645.49</y-m>
-    <z-m>82.9596</z-m>
+    <z-m>84.1242</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -402,7 +358,7 @@
   <offsets>
     <x-m>218.316</x-m>
     <y-m>-639.036</y-m>
-    <z-m>127.99</z-m>
+    <z-m>130.262</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -413,7 +369,7 @@
   <offsets>
     <x-m>198.972</x-m>
     <y-m>-618.035</y-m>
-    <z-m>127.99</z-m>
+    <z-m>130.262</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -424,7 +380,7 @@
   <offsets>
     <x-m>186.532</x-m>
     <y-m>-629.492</y-m>
-    <z-m>127.99</z-m>
+    <z-m>130.262</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -435,7 +391,7 @@
   <offsets>
     <x-m>205.877</x-m>
     <y-m>-650.494</y-m>
-    <z-m>127.99</z-m>
+    <z-m>130.262</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -446,7 +402,7 @@
   <offsets>
     <x-m>265.292</x-m>
     <y-m>-725.509</y-m>
-    <z-m>150.865</z-m>
+    <z-m>153.137</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -457,7 +413,7 @@
   <offsets>
     <x-m>250.29</x-m>
     <y-m>-740.277</y-m>
-    <z-m>150.865</z-m>
+    <z-m>153.137</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -468,7 +424,7 @@
   <offsets>
     <x-m>263.48</x-m>
     <y-m>-753.676</y-m>
-    <z-m>150.865</z-m>
+    <z-m>153.137</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -479,7 +435,7 @@
   <offsets>
     <x-m>278.482</x-m>
     <y-m>-738.908</y-m>
-    <z-m>150.865</z-m>
+    <z-m>153.137</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -490,7 +446,7 @@
   <offsets>
     <x-m>263.628</x-m>
     <y-m>-681.321</y-m>
-    <z-m>150.44</z-m>
+    <z-m>152.712</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -501,7 +457,7 @@
   <offsets>
     <x-m>248.626</x-m>
     <y-m>-696.089</y-m>
-    <z-m>150.44</z-m>
+    <z-m>152.712</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -512,7 +468,7 @@
   <offsets>
     <x-m>261.816</x-m>
     <y-m>-709.488</y-m>
-    <z-m>150.44</z-m>
+    <z-m>152.712</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -523,95 +479,7 @@
   <offsets>
     <x-m>276.818</x-m>
     <y-m>-694.72</y-m>
-    <z-m>150.44</z-m>
-    <pitch-deg> 0.00</pitch-deg>
-    <heading-deg>0.0 </heading-deg>
-  </offsets>
-</model>
-
-<model>
-  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
-  <offsets>
-    <x-m>-358.34</x-m>
-    <y-m>-594.699</y-m>
-    <z-m>68.8292</z-m>
-    <pitch-deg> 0.00</pitch-deg>
-    <heading-deg>0.0 </heading-deg>
-  </offsets>
-</model>
-
-<model>
-  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
-  <offsets>
-    <x-m>-377.675</x-m>
-    <y-m>-594.452</y-m>
-    <z-m>68.8292</z-m>
-    <pitch-deg> 0.00</pitch-deg>
-    <heading-deg>0.0 </heading-deg>
-  </offsets>
-</model>
-
-<model>
-  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
-  <offsets>
-    <x-m>-384.709</x-m>
-    <y-m>-601.711</y-m>
-    <z-m>68.8292</z-m>
-    <pitch-deg> 0.00</pitch-deg>
-    <heading-deg>0.0 </heading-deg>
-  </offsets>
-</model>
-
-<model>
-  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
-  <offsets>
-    <x-m>-388.425</x-m>
-    <y-m>-609.621</y-m>
-    <z-m>68.8292</z-m>
-    <pitch-deg> 0.00</pitch-deg>
-    <heading-deg>0.0 </heading-deg>
-  </offsets>
-</model>
-
-<model>
-  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
-  <offsets>
-    <x-m>-400.417</x-m>
-    <y-m>-580.658</y-m>
-    <z-m>59.102</z-m>
-    <pitch-deg> 0.00</pitch-deg>
-    <heading-deg>0.0 </heading-deg>
-  </offsets>
-</model>
-
-<model>
-  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
-  <offsets>
-    <x-m>-419.752</x-m>
-    <y-m>-580.41</y-m>
-    <z-m>59.102</z-m>
-    <pitch-deg> 0.00</pitch-deg>
-    <heading-deg>0.0 </heading-deg>
-  </offsets>
-</model>
-
-<model>
-  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
-  <offsets>
-    <x-m>-426.785</x-m>
-    <y-m>-587.67</y-m>
-    <z-m>59.102</z-m>
-    <pitch-deg> 0.00</pitch-deg>
-    <heading-deg>0.0 </heading-deg>
-  </offsets>
-</model>
-
-<model>
-  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
-  <offsets>
-    <x-m>-430.502</x-m>
-    <y-m>-595.58</y-m>
-    <z-m>59.102</z-m>
+    <z-m>152.712</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -622,7 +490,7 @@
   <offsets>
     <x-m>-446.035</x-m>
     <y-m>193.122</y-m>
-    <z-m>87.4285</z-m>
+    <z-m>89.7005</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -633,7 +501,7 @@
   <offsets>
     <x-m>-463.091</x-m>
     <y-m>165.587</y-m>
-    <z-m>87.4285</z-m>
+    <z-m>89.7005</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -644,7 +512,7 @@
   <offsets>
     <x-m>-442.219</x-m>
     <y-m>152.658</y-m>
-    <z-m>87.4285</z-m>
+    <z-m>89.7005</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -655,7 +523,7 @@
   <offsets>
     <x-m>-425.163</x-m>
     <y-m>180.193</y-m>
-    <z-m>87.4285</z-m>
+    <z-m>89.7005</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -666,7 +534,7 @@
   <offsets>
     <x-m>-295.197</x-m>
     <y-m>-135.852</y-m>
-    <z-m>66.0697</z-m>
+    <z-m>68.3417</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -677,7 +545,7 @@
   <offsets>
     <x-m>-266.188</x-m>
     <y-m>-156.794</y-m>
-    <z-m>66.0697</z-m>
+    <z-m>68.3417</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -688,7 +556,7 @@
   <offsets>
     <x-m>-261.74</x-m>
     <y-m>-136.742</y-m>
-    <z-m>66.0697</z-m>
+    <z-m>68.3417</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -699,7 +567,7 @@
   <offsets>
     <x-m>-284.126</x-m>
     <y-m>-124.481</y-m>
-    <z-m>66.0697</z-m>
+    <z-m>68.3417</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -710,7 +578,7 @@
   <offsets>
     <x-m>-640.131</x-m>
     <y-m>51.7567</y-m>
-    <z-m>59.5297</z-m>
+    <z-m>61.8017</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -721,7 +589,7 @@
   <offsets>
     <x-m>-642.405</x-m>
     <y-m>31.3743</y-m>
-    <z-m>59.5297</z-m>
+    <z-m>61.8017</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -732,7 +600,7 @@
   <offsets>
     <x-m>-630.801</x-m>
     <y-m>28.6762</y-m>
-    <z-m>59.5297</z-m>
+    <z-m>61.8017</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -743,7 +611,7 @@
   <offsets>
     <x-m>-631.356</x-m>
     <y-m>48.921</y-m>
-    <z-m>59.5297</z-m>
+    <z-m>61.8017</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -754,7 +622,7 @@
   <offsets>
     <x-m>-800.384</x-m>
     <y-m>89.8785</y-m>
-    <z-m>42.4161</z-m>
+    <z-m>44.6881</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -765,7 +633,7 @@
   <offsets>
     <x-m>-827.197</x-m>
     <y-m>101.029</y-m>
-    <z-m>42.4161</z-m>
+    <z-m>44.6881</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -776,7 +644,7 @@
   <offsets>
     <x-m>-834.585</x-m>
     <y-m>86.015</y-m>
-    <z-m>42.4161</z-m>
+    <z-m>44.6881</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -787,7 +655,7 @@
   <offsets>
     <x-m>-807.717</x-m>
     <y-m>74.8189</y-m>
-    <z-m>42.4161</z-m>
+    <z-m>44.6881</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -798,7 +666,7 @@
   <offsets>
     <x-m>-703.817</x-m>
     <y-m>44.2039</y-m>
-    <z-m>41.913</z-m>
+    <z-m>44.185</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -809,7 +677,7 @@
   <offsets>
     <x-m>-727.513</x-m>
     <y-m>54.8769</y-m>
-    <z-m>41.913</z-m>
+    <z-m>44.185</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -820,7 +688,7 @@
   <offsets>
     <x-m>-734.834</x-m>
     <y-m>38.6976</y-m>
-    <z-m>41.913</z-m>
+    <z-m>44.185</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -831,7 +699,7 @@
   <offsets>
     <x-m>-711.583</x-m>
     <y-m>28.7772</y-m>
-    <z-m>41.913</z-m>
+    <z-m>44.185</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -842,7 +710,7 @@
   <offsets>
     <x-m>-987.377</x-m>
     <y-m>-893.472</y-m>
-    <z-m>45.36</z-m>
+    <z-m>47.632</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -853,7 +721,7 @@
   <offsets>
     <x-m>-1004.25</x-m>
     <y-m>-917.351</y-m>
-    <z-m>45.36</z-m>
+    <z-m>47.632</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -864,7 +732,7 @@
   <offsets>
     <x-m>-986.956</x-m>
     <y-m>-929.571</y-m>
-    <z-m>45.36</z-m>
+    <z-m>47.632</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -875,7 +743,7 @@
   <offsets>
     <x-m>-970.084</x-m>
     <y-m>-905.692</y-m>
-    <z-m>45.36</z-m>
+    <z-m>47.632</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -886,7 +754,7 @@
   <offsets>
     <x-m>-856.406</x-m>
     <y-m>210.373</y-m>
-    <z-m>40.101</z-m>
+    <z-m>42.373</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -897,7 +765,7 @@
   <offsets>
     <x-m>-837.898</x-m>
     <y-m>200.717</y-m>
-    <z-m>40.101</z-m>
+    <z-m>42.373</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -908,7 +776,7 @@
   <offsets>
     <x-m>-832.265</x-m>
     <y-m>211.514</y-m>
-    <z-m>40.101</z-m>
+    <z-m>42.373</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -919,7 +787,7 @@
   <offsets>
     <x-m>-850.773</x-m>
     <y-m>221.17</y-m>
-    <z-m>40.101</z-m>
+    <z-m>42.373</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -930,7 +798,7 @@
   <offsets>
     <x-m>-845.413</x-m>
     <y-m>231.226</y-m>
-    <z-m>40.3008</z-m>
+    <z-m>42.5728</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -941,7 +809,7 @@
   <offsets>
     <x-m>-826.86</x-m>
     <y-m>221.586</y-m>
-    <z-m>40.3008</z-m>
+    <z-m>42.5728</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -952,7 +820,7 @@
   <offsets>
     <x-m>-820.972</x-m>
     <y-m>232.916</y-m>
-    <z-m>40.3008</z-m>
+    <z-m>42.5728</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -963,7 +831,7 @@
   <offsets>
     <x-m>-839.525</x-m>
     <y-m>242.557</y-m>
-    <z-m>40.3008</z-m>
+    <z-m>42.5728</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -974,7 +842,7 @@
   <offsets>
     <x-m>-831.376</x-m>
     <y-m>205.512</y-m>
-    <z-m>74.9345</z-m>
+    <z-m>77.2065</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -985,7 +853,7 @@
   <offsets>
     <x-m>-811.346</x-m>
     <y-m>194.425</y-m>
-    <z-m>74.9345</z-m>
+    <z-m>77.2065</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -996,7 +864,7 @@
   <offsets>
     <x-m>-800.426</x-m>
     <y-m>214.154</y-m>
-    <z-m>74.9345</z-m>
+    <z-m>77.2065</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -1007,7 +875,7 @@
   <offsets>
     <x-m>-820.456</x-m>
     <y-m>225.241</y-m>
-    <z-m>74.9345</z-m>
+    <z-m>77.2065</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -1018,7 +886,7 @@
   <offsets>
     <x-m>-326.366</x-m>
     <y-m>-34.397</y-m>
-    <z-m>81.4246</z-m>
+    <z-m>83.6966</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -1029,7 +897,7 @@
   <offsets>
     <x-m>-361.405</x-m>
     <y-m>-8.99049</y-m>
-    <z-m>81.4246</z-m>
+    <z-m>83.6966</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -1040,7 +908,7 @@
   <offsets>
     <x-m>-372.226</x-m>
     <y-m>-23.9146</y-m>
-    <z-m>81.4246</z-m>
+    <z-m>83.6966</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -1051,7 +919,7 @@
   <offsets>
     <x-m>-337.188</x-m>
     <y-m>-49.3212</y-m>
-    <z-m>81.4246</z-m>
+    <z-m>83.6966</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -1062,7 +930,7 @@
   <offsets>
     <x-m>575.197</x-m>
     <y-m>772.62</y-m>
-    <z-m>91.0613</z-m>
+    <z-m>93.3333</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -1073,7 +941,7 @@
   <offsets>
     <x-m>557.23</x-m>
     <y-m>751.808</y-m>
-    <z-m>91.0613</z-m>
+    <z-m>93.3333</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -1084,7 +952,7 @@
   <offsets>
     <x-m>568.302</x-m>
     <y-m>737.922</y-m>
-    <z-m>91.0613</z-m>
+    <z-m>93.3333</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -1095,7 +963,7 @@
   <offsets>
     <x-m>588.41</x-m>
     <y-m>761.214</y-m>
-    <z-m>91.0613</z-m>
+    <z-m>93.3333</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -1106,7 +974,7 @@
   <offsets>
     <x-m>550.209</x-m>
     <y-m>760.764</y-m>
-    <z-m>91.3069</z-m>
+    <z-m>93.5789</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -1117,7 +985,7 @@
   <offsets>
     <x-m>565.984</x-m>
     <y-m>779.519</y-m>
-    <z-m>91.3069</z-m>
+    <z-m>93.5789</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -1128,7 +996,7 @@
   <offsets>
     <x-m>552.218</x-m>
     <y-m>791.098</y-m>
-    <z-m>91.3069</z-m>
+    <z-m>93.5789</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -1139,7 +1007,7 @@
   <offsets>
     <x-m>538.715</x-m>
     <y-m>775.043</y-m>
-    <z-m>91.3069</z-m>
+    <z-m>93.5789</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -1150,7 +1018,7 @@
   <offsets>
     <x-m>544.336</x-m>
     <y-m>797.635</y-m>
-    <z-m>91.5489</z-m>
+    <z-m>93.8209</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -1161,7 +1029,7 @@
   <offsets>
     <x-m>520.745</x-m>
     <y-m>816.387</y-m>
-    <z-m>91.5489</z-m>
+    <z-m>93.8209</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -1172,7 +1040,7 @@
   <offsets>
     <x-m>513.424</x-m>
     <y-m>807.173</y-m>
-    <z-m>91.5489</z-m>
+    <z-m>93.8209</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -1183,7 +1051,7 @@
   <offsets>
     <x-m>532.637</x-m>
     <y-m>782.918</y-m>
-    <z-m>91.5489</z-m>
+    <z-m>93.8209</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -1194,7 +1062,7 @@
   <offsets>
     <x-m>737.08</x-m>
     <y-m>992.219</y-m>
-    <z-m>84.0802</z-m>
+    <z-m>86.3522</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -1205,7 +1073,7 @@
   <offsets>
     <x-m>755.505</x-m>
     <y-m>974.4</y-m>
-    <z-m>84.0802</z-m>
+    <z-m>86.3522</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -1216,7 +1084,7 @@
   <offsets>
     <x-m>761.918</x-m>
     <y-m>981.031</y-m>
-    <z-m>84.0802</z-m>
+    <z-m>86.3522</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -1227,7 +1095,7 @@
   <offsets>
     <x-m>743.494</x-m>
     <y-m>998.85</y-m>
-    <z-m>84.0802</z-m>
+    <z-m>86.3522</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -1238,7 +1106,7 @@
   <offsets>
     <x-m>228.595</x-m>
     <y-m>-19.9665</y-m>
-    <z-m>113</z-m>
+    <z-m>115.272</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -1249,7 +1117,7 @@
   <offsets>
     <x-m>242.498</x-m>
     <y-m>-34.6798</y-m>
-    <z-m>113</z-m>
+    <z-m>115.272</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -1260,7 +1128,7 @@
   <offsets>
     <x-m>255.781</x-m>
     <y-m>-22.1292</y-m>
-    <z-m>113</z-m>
+    <z-m>115.272</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -1271,7 +1139,7 @@
   <offsets>
     <x-m>241.878</x-m>
     <y-m>-7.41582</y-m>
-    <z-m>113</z-m>
+    <z-m>115.272</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -1282,7 +1150,7 @@
   <offsets>
     <x-m>277.803</x-m>
     <y-m>888.124</y-m>
-    <z-m>71.4331</z-m>
+    <z-m>73.7051</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -1293,7 +1161,7 @@
   <offsets>
     <x-m>298.535</x-m>
     <y-m>910.113</y-m>
-    <z-m>71.4331</z-m>
+    <z-m>73.7051</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -1304,7 +1172,7 @@
   <offsets>
     <x-m>288.986</x-m>
     <y-m>919.116</y-m>
-    <z-m>71.4331</z-m>
+    <z-m>73.7051</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -1315,7 +1183,7 @@
   <offsets>
     <x-m>269.516</x-m>
     <y-m>898.466</y-m>
-    <z-m>71.4331</z-m>
+    <z-m>73.7051</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -1326,7 +1194,7 @@
   <offsets>
     <x-m>643.128</x-m>
     <y-m>429.583</y-m>
-    <z-m>65.9061</z-m>
+    <z-m>68.1781</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -1337,7 +1205,7 @@
   <offsets>
     <x-m>666.486</x-m>
     <y-m>452.828</y-m>
-    <z-m>65.9061</z-m>
+    <z-m>68.1781</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -1348,7 +1216,7 @@
   <offsets>
     <x-m>650.912</x-m>
     <y-m>468.478</y-m>
-    <z-m>65.9061</z-m>
+    <z-m>68.1781</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -1359,7 +1227,7 @@
   <offsets>
     <x-m>627.554</x-m>
     <y-m>445.233</y-m>
-    <z-m>65.9061</z-m>
+    <z-m>68.1781</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -1370,7 +1238,7 @@
   <offsets>
     <x-m>563.031</x-m>
     <y-m>321.104</y-m>
-    <z-m>64.7731</z-m>
+    <z-m>67.0451</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -1381,7 +1249,7 @@
   <offsets>
     <x-m>582.823</x-m>
     <y-m>343.599</y-m>
-    <z-m>64.7731</z-m>
+    <z-m>67.0451</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -1392,7 +1260,7 @@
   <offsets>
     <x-m>568.986</x-m>
     <y-m>359.623</y-m>
-    <z-m>64.7731</z-m>
+    <z-m>67.0451</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -1403,7 +1271,7 @@
   <offsets>
     <x-m>546.521</x-m>
     <y-m>340.223</y-m>
-    <z-m>64.7731</z-m>
+    <z-m>67.0451</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -1414,7 +1282,7 @@
   <offsets>
     <x-m>559.372</x-m>
     <y-m>366.744</y-m>
-    <z-m>59.2499</z-m>
+    <z-m>61.5219</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -1425,7 +1293,7 @@
   <offsets>
     <x-m>575.579</x-m>
     <y-m>386.887</y-m>
-    <z-m>59.2499</z-m>
+    <z-m>61.5219</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -1436,7 +1304,7 @@
   <offsets>
     <x-m>532.072</x-m>
     <y-m>392.036</y-m>
-    <z-m>59.2499</z-m>
+    <z-m>61.5219</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -1447,7 +1315,7 @@
   <offsets>
     <x-m>546.149</x-m>
     <y-m>366.744</y-m>
-    <z-m>59.2499</z-m>
+    <z-m>61.5219</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -1458,7 +1326,7 @@
   <offsets>
     <x-m>896.674</x-m>
     <y-m>650.299</y-m>
-    <z-m>75.2838</z-m>
+    <z-m>77.5558</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -1469,7 +1337,7 @@
   <offsets>
     <x-m>904.117</x-m>
     <y-m>680.18</y-m>
-    <z-m>75.2838</z-m>
+    <z-m>77.5558</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -1480,7 +1348,7 @@
   <offsets>
     <x-m>927.107</x-m>
     <y-m>707.584</y-m>
-    <z-m>75.2838</z-m>
+    <z-m>77.5558</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -1491,7 +1359,7 @@
   <offsets>
     <x-m>878.577</x-m>
     <y-m>676.175</y-m>
-    <z-m>75.2838</z-m>
+    <z-m>77.5558</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -1502,7 +1370,7 @@
   <offsets>
     <x-m>394.6</x-m>
     <y-m>-64.5451</y-m>
-    <z-m>56.2885</z-m>
+    <z-m>58.5605</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -1513,7 +1381,7 @@
   <offsets>
     <x-m>409.462</x-m>
     <y-m>-49.3663</y-m>
-    <z-m>56.2885</z-m>
+    <z-m>58.5605</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -1524,7 +1392,7 @@
   <offsets>
     <x-m>399.855</x-m>
     <y-m>-39.9597</y-m>
-    <z-m>56.2885</z-m>
+    <z-m>58.5605</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -1535,7 +1403,7 @@
   <offsets>
     <x-m>384.993</x-m>
     <y-m>-55.1385</y-m>
-    <z-m>56.2885</z-m>
+    <z-m>58.5605</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>

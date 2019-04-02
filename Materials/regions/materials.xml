@@ -1,0 +1,4 @@
+<region include="Materials/regions/argentina_urban.xml"/>
+<region include="Materials/regions/argentina_roads.xml"/>
+<region include="Materials/regions/argentina_pampas.xml"/>
+<region include="Materials/regions/argentina_south.xml"/>

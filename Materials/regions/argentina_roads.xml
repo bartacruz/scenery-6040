@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<PropertyList>
+  <name>Argentina Roads</name>
+  
+  <area>
+    <lon1>-60.00</lon1>
+    <lon2>-40.00</lon2>
+    <lat1>-30.00</lat1>
+    <lat2>-40.00</lat2>
+  </area>
+  
+<material>
+  <name>Freeway</name>
+  <name>Road</name>
+  <name>Road-Motorway</name>
+  <name>Road-Trunk</name>
+  <name>Road-Primary</name>
+  <name>Road-Secondary</name>
+  <name>Road-Tertiary</name>
+  <texture>Terrain/asphalt.png</texture>
+  <xsize>400</xsize>
+  <ysize>400</ysize>
+  <light-coverage>10000.0</light-coverage>
+  <solid>1</solid>
+  <friction-factor>1.0</friction-factor>
+  <rolling-friction>0.02</rolling-friction>
+  <bumpiness>0.01</bumpiness>
+  <load-resistance>1e10</load-resistance>
+</material>
+
+<material>
+  <name>Road-Shoulder</name>
+  <texture>Terrain/shoulder.png</texture>
+  <xsize>400</xsize>
+  <ysize>400</ysize>
+  <light-coverage>10000.0</light-coverage>
+  <solid>1</solid>
+  <friction-factor>1.0</friction-factor>
+  <rolling-friction>0.02</rolling-friction>
+  <bumpiness>0.01</bumpiness>
+  <load-resistance>1e10</load-resistance>
+</material>
+<!--
+<material >
+  <name>Freeway</name>
+  <texture>asphalt-centerline.png</texture>
+  <xsize>500</xsize>
+  <ysize>1000</ysize>
+  <light-coverage>10000.0</light-coverage>
+  <solid>1</solid>
+  <friction-factor>1.0</friction-factor>
+  <rolling-friction>0.02</rolling-friction>
+  <bumpiness>0.01</bumpiness>
+  <load-resistance>1e10</load-resistance>
+</material>
+<material >
+  <name>Road</name>
+  <texture>road-simple.png</texture>
+  <xsize>500</xsize>
+  <ysize>500</ysize>
+  <light-coverage>10000.0</light-coverage>
+  <solid>1</solid>
+  <friction-factor>1.0</friction-factor>
+  <rolling-friction>0.02</rolling-friction>
+  <bumpiness>0.01</bumpiness>
+  <load-resistance>1e10</load-resistance>
+</material>
+	<material>
+		<name>Railroad</name>		
+		<texture>rail.png</texture>
+		<xsize>1000</xsize>
+		<ysize>5000</ysize>
+	</material>
+-->
+</PropertyList>

@@ -1,6 +1,6 @@
 # tree_rows_w060s40_w058s35_2002408
 # do not edit below this line
-# Last Written Tue Mar 26 18:10:42 2019
+# Last Written Tue Apr  2 00:56:03 2019
 #
 OBJECT_SHARED Models/Trees/large_tree_erected.xml -57.87954 -34.37544 33.14 0
 OBJECT_SHARED Models/Trees/large_tree_erected.xml -57.87945 -34.37539 33.08 0
@@ -14,11 +14,11 @@ OBJECT_SHARED Models/Trees/deciduous-tree2.xml -57.87881 -34.37504 33.57 0
 # END tree_rows_w060s40_w058s35_2002408
 # piers_w060s40_w058s35_2002400
 # do not edit below this line
-# Last Written Tue Mar 26 18:11:26 2019
+# Last Written Tue Apr  2 00:58:23 2019
 #
 OBJECT_STATIC w060s40_w058s35_2002400piers0601.ac -57.85855 -34.47296 0.00 0
 OBJECT_STATIC w060s40_w058s35_2002400piers0901.ac -57.79327 -34.47296 0.00 0
-OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -57.85186 -34.46897 -0.00 179.098
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -57.85186 -34.46897 0.06 179.098
 OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -57.79447 -34.46836 -0.05 -9.26379
 OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -57.79447 -34.46836 -0.05 -9.26379
 OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -57.79447 -34.46836 -0.05 -9.26379
@@ -28,7 +28,7 @@ OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -57.79420 -34.46829 -0.05
 # END piers_w060s40_w058s35_2002400
 # tree_rows_w060s40_w058s35_2002400
 # do not edit below this line
-# Last Written Tue Mar 26 18:11:26 2019
+# Last Written Tue Apr  2 00:58:23 2019
 #
 OBJECT_SHARED Models/Trees/deciduous-tree3.xml -57.87954 -34.37544 33.14 0
 OBJECT_SHARED Models/Trees/deciduous-tree3.xml -57.87945 -34.37539 33.08 0
