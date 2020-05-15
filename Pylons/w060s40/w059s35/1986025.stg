@@ -1,0 +1,23 @@
+# pylons_w060s40_w059s35_1986024
+# do not edit below this line
+# Last Written Mon Apr 20 21:30:32 2020
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -58.74859 -34.36383 4.73 388.552
+# END pylons_w060s40_w059s35_1986024
+# pylons_w060s40_w059s35_1986025
+# do not edit below this line
+# Last Written Mon Apr 20 23:23:41 2020
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -58.74859 -34.36383 4.73 388.446
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -58.74503 -34.36223 5.36 361.778
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -58.74163 -34.36354 3.77 334.977
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -58.73810 -34.36491 4.45 334.833
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -58.73468 -34.36625 1.46 334.785
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -58.73133 -34.36756 0.67 334.905
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -58.72797 -34.36886 0.79 335.007
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -58.72462 -34.37016 2.94 331.132
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -58.72144 -34.37185 1.79 327.187
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -58.71831 -34.37353 -0.23 327.191
+OBJECT_BUILDING_MESH_DETAILED w060s40_w059s35_1986025cables00001.ac -58.73828 -34.36554 3.01 90
+OBJECT_BUILDING_MESH_DETAILED w060s40_w059s35_1986025cables00008.ac -58.72155 -34.37204 2.01 90
+# END pylons_w060s40_w059s35_1986025

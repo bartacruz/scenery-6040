@@ -1,0 +1,8 @@
+# pylons_w060s40_w058s35_2002368
+# do not edit below this line
+# Last Written Tue Apr 21 02:59:22 2020
+#
+OBJECT_SHARED Models/Power/generic_pylon_25m.ac -57.93156 -35.00050 22.32 343.887
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -57.96205 -35.00827 23.54 228.06
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -57.86594 -35.00245 18.53 227.846
+# END pylons_w060s40_w058s35_2002368

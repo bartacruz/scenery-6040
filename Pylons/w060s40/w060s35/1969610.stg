@@ -1,0 +1,14 @@
+# pylons_w060s40_w060s35_1969609
+# do not edit below this line
+# Last Written Mon Apr 20 18:56:34 2020
+#
+OBJECT_SHARED Models/Power/generic_pylon_25m.ac -59.49830 -34.75080 42.87 377.031
+# END pylons_w060s40_w060s35_1969609
+# pylons_w060s40_w060s35_1969610
+# do not edit below this line
+# Last Written Mon Apr 20 19:03:00 2020
+#
+OBJECT_SHARED Models/Power/generic_pylon_25m.ac -59.49830 -34.75080 42.87 377.03
+OBJECT_SHARED Models/Power/generic_pylon_25m.ac -59.49564 -34.75013 43.02 377.03
+OBJECT_BUILDING_MESH_DETAILED w060s40_w060s35_1969610cables00007.ac -59.49564 -34.75013 42.31 90
+# END pylons_w060s40_w060s35_1969610

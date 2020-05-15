@@ -1,0 +1,7 @@
+# pylons_w060s40_w059s36_1985936
+# do not edit below this line
+# Last Written Mon Apr 13 02:41:16 2020
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -59.00399 -35.68284 25.58 220.555
+OBJECT_BUILDING_MESH_DETAILED w060s40_w059s36_1985936cables00004.ac -59.00188 -35.68137 22.49 90
+# END pylons_w060s40_w059s36_1985936
