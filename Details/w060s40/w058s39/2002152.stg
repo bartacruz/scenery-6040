@@ -1,12 +1,12 @@
 # piers_w060s40_w058s39_2002152
 # do not edit below this line
-# Last Written Tue Apr  2 10:39:08 2019
+# Last Written Tue Apr 21 11:33:25 2020
 #
 OBJECT_STATIC w060s40_w058s39_2002152piers0705.ac -57.82849 -38.27590 0.00 0
-OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -57.83418 -38.28395 -0.05 143.718
-OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -57.83437 -38.28412 -0.05 -36.4149
-OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -57.83437 -38.28412 -0.05 -36.4149
-OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -57.83437 -38.28412 -0.05 -36.4149
-OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -57.83418 -38.28395 -0.05 143.718
-OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -57.83418 -38.28395 -0.05 143.718
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -57.83418 -38.28395 -0.00 143.718
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -57.83437 -38.28412 -0.00 -36.4149
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -57.83437 -38.28412 -0.00 -36.4149
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -57.83437 -38.28412 -0.00 -36.4149
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -57.83418 -38.28395 -0.00 143.718
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -57.83418 -38.28395 -0.00 143.718
 # END piers_w060s40_w058s39_2002152

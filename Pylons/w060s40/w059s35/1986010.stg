@@ -1,9 +1,27 @@
 # pylons_w060s40_w059s35_1986010
 # do not edit below this line
-# Last Written Tue Apr  2 03:41:51 2019
+# Last Written Tue Apr 21 01:51:38 2020
 #
+OBJECT_SHARED Models/Power/generic_pylon_25m.ac -58.45754 -34.58385 26.75 152.943
+OBJECT_SHARED Models/Power/generic_pylon_25m.ac -58.45768 -34.58379 26.90 197.739
+OBJECT_SHARED Models/Power/generic_pylon_25m.ac -58.45801 -34.58430 26.46 225.432
+OBJECT_SHARED Models/Power/generic_pylon_25m.ac -58.45814 -34.58436 26.52 185.058
+OBJECT_SHARED Models/Power/generic_pylon_25m.ac -58.45911 -34.58409 26.05 170.623
+OBJECT_SHARED Models/Power/generic_pylon_25m.ac -58.46193 -34.58407 27.15 223.33
+OBJECT_SHARED Models/Power/generic_pylon_25m.ac -58.46199 -34.58507 27.45 266.992
+OBJECT_SHARED Models/Power/generic_pylon_25m.ac -58.46202 -34.58562 27.63 302.068
+OBJECT_SHARED Models/Power/generic_pylon_25m.ac -58.46186 -34.58568 27.47 286.768
+OBJECT_SHARED Models/Power/generic_pylon_25m.ac -58.46195 -34.58580 27.60 280.966
+OBJECT_SHARED Models/Power/generic_pylon_25m.ac -58.46185 -34.58586 27.51 276.864
+OBJECT_SHARED Models/Power/generic_pylon_25m.ac -58.46362 -34.58748 26.27 228.303
+OBJECT_SHARED Models/Power/generic_pylon_25m.ac -58.46564 -34.58938 29.23 227.806
+OBJECT_SHARED Models/Power/generic_pylon_25m.ac -58.46631 -34.58997 28.63 181.695
+OBJECT_SHARED Models/Power/generic_pylon_25m.ac -58.46641 -34.58990 28.50 136.407
+OBJECT_BUILDING_MESH_DETAILED w060s40_w059s35_1986010cables00009.ac -58.46602 -34.58967 28.86 90
+OBJECT_BUILDING_MESH_DETAILED w060s40_w059s35_1986010cables00010.ac -58.46159 -34.58658 27.64 90
 OBJECT_SHARED Models/Industrial/KOFF_Tank_10M.ac -58.41698 -34.56112 8.84 0
 OBJECT_SHARED Models/Industrial/KOFF_Tank_12M.ac -58.41677 -34.56108 8.79 0
 OBJECT_SHARED Models/Industrial/KOFF_Tank_10M.ac -58.41702 -34.56094 8.75 0
-OBJECT_SHARED Models/Industrial/brick_chimney_502m.ac -58.41100 -34.61631 -359.82 450
+OBJECT_SHARED Models/Industrial/brick_chimney_502m.ac -58.44746 -34.59409 -371.98 450
+OBJECT_SHARED Models/Industrial/TPS_Drujba2_chimney.ac -58.44284 -34.55246 0.01 450
 # END pylons_w060s40_w059s35_1986010

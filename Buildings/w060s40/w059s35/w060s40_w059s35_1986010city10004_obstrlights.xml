@@ -6,7 +6,7 @@
   <offsets>
     <x-m>403.509</x-m>
     <y-m>229.115</y-m>
-    <z-m>85.0436</z-m>
+    <z-m>85.1126</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -17,7 +17,7 @@
   <offsets>
     <x-m>375.393</x-m>
     <y-m>212.692</y-m>
-    <z-m>85.0436</z-m>
+    <z-m>85.1126</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -28,7 +28,7 @@
   <offsets>
     <x-m>390.919</x-m>
     <y-m>186.111</y-m>
-    <z-m>85.0436</z-m>
+    <z-m>85.1126</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -39,7 +39,7 @@
   <offsets>
     <x-m>419.035</x-m>
     <y-m>202.533</y-m>
-    <z-m>85.0436</z-m>
+    <z-m>85.1126</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -48,9 +48,9 @@
 <model>
   <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
   <offsets>
-    <x-m>394.435</x-m>
-    <y-m>-171.194</y-m>
-    <z-m>57.008</z-m>
+    <x-m>400.803</x-m>
+    <y-m>-178.297</y-m>
+    <z-m>57.1604</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -59,9 +59,9 @@
 <model>
   <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
   <offsets>
-    <x-m>379.37</x-m>
-    <y-m>-167.624</y-m>
-    <z-m>57.008</z-m>
+    <x-m>378.128</x-m>
+    <y-m>-172.929</y-m>
+    <z-m>57.1604</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -70,9 +70,9 @@
 <model>
   <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
   <offsets>
-    <x-m>376.763</x-m>
-    <y-m>-209.83</y-m>
-    <z-m>57.008</z-m>
+    <x-m>370.939</x-m>
+    <y-m>-203.534</y-m>
+    <z-m>57.1604</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -81,9 +81,97 @@
 <model>
   <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
   <offsets>
-    <x-m>392.516</x-m>
-    <y-m>-213.565</y-m>
-    <z-m>57.008</z-m>
+    <x-m>393.614</x-m>
+    <y-m>-208.903</y-m>
+    <z-m>57.1604</z-m>
+    <pitch-deg> 0.00</pitch-deg>
+    <heading-deg>0.0 </heading-deg>
+  </offsets>
+</model>
+
+<model>
+  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+  <offsets>
+    <x-m>372.526</x-m>
+    <y-m>-196.771</y-m>
+    <z-m>60.9836</z-m>
+    <pitch-deg> 0.00</pitch-deg>
+    <heading-deg>0.0 </heading-deg>
+  </offsets>
+</model>
+
+<model>
+  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+  <offsets>
+    <x-m>386.492</x-m>
+    <y-m>-212.133</y-m>
+    <z-m>60.9836</z-m>
+    <pitch-deg> 0.00</pitch-deg>
+    <heading-deg>0.0 </heading-deg>
+  </offsets>
+</model>
+
+<model>
+  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+  <offsets>
+    <x-m>398.684</x-m>
+    <y-m>-187.309</y-m>
+    <z-m>60.9836</z-m>
+    <pitch-deg> 0.00</pitch-deg>
+    <heading-deg>0.0 </heading-deg>
+  </offsets>
+</model>
+
+<model>
+  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+  <offsets>
+    <x-m>385.727</x-m>
+    <y-m>-169.129</y-m>
+    <z-m>60.9836</z-m>
+    <pitch-deg> 0.00</pitch-deg>
+    <heading-deg>0.0 </heading-deg>
+  </offsets>
+</model>
+
+<model>
+  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+  <offsets>
+    <x-m>369.852</x-m>
+    <y-m>-208.196</y-m>
+    <z-m>74.5774</z-m>
+    <pitch-deg> 0.00</pitch-deg>
+    <heading-deg>0.0 </heading-deg>
+  </offsets>
+</model>
+
+<model>
+  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+  <offsets>
+    <x-m>393.614</x-m>
+    <y-m>-208.903</y-m>
+    <z-m>74.5774</z-m>
+    <pitch-deg> 0.00</pitch-deg>
+    <heading-deg>0.0 </heading-deg>
+  </offsets>
+</model>
+
+<model>
+  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+  <offsets>
+    <x-m>402.045</x-m>
+    <y-m>-172.993</y-m>
+    <z-m>74.5774</z-m>
+    <pitch-deg> 0.00</pitch-deg>
+    <heading-deg>0.0 </heading-deg>
+  </offsets>
+</model>
+
+<model>
+  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+  <offsets>
+    <x-m>378.128</x-m>
+    <y-m>-172.929</y-m>
+    <z-m>74.5774</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>

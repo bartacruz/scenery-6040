@@ -1,6 +1,6 @@
 # osm2city_w060s40_w058s38_2002186
 # do not edit below this line
-# Last Written Tue Apr  2 10:21:47 2019
+# Last Written Thu Jan 16 17:26:34 2020
 #
-OBJECT_BUILDING_MESH_DETAILED w060s40_w058s38_2002186city00002.ac -57.49384 -37.82276 3.16 0
+BUILDING_LIST w060s40_w058s38_2002186_buildings_shader.txt OSMBuildings -57.37500 -37.81250 5.77
 # END osm2city_w060s40_w058s38_2002186

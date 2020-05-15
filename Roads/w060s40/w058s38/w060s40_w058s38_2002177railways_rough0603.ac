@@ -1,20 +1,20 @@
 AC3Db
-MATERIAL "unlit" rgb 0.000 0.000 0.000 amb 1 1 1 emis 0 0 0 spec 0.5 0.5 0.5 shi 64 trans 0
-MATERIAL "lit" rgb 1.000 1.000 1.000 amb 1 1 1 emis 0 0 0 spec 0.5 0.5 0.5 shi 64 trans 0
+MATERIAL "unlit" rgb 0.000 0.000 0.000 amb 1 1 1 emis 0 0 0 spec 0.0 0.0 0.0 shi 0 trans 0
+MATERIAL "lit" rgb 1.000 1.000 1.000 amb 1 1 1 emis 0 0 0 spec 0.0 0.0 0.0 shi 0 trans 0
 OBJECT world
 kids 1
 OBJECT poly
 name "w060s40_w058s38_2002177railways_rough0603"
 texture "Textures/osm2city/roads.png"
 numvert 8
-223.526 0.337 -969.323
-214.98 0.309 -967.415
-222.283 0.413 -974.891
-213.737 0.385 -972.983
-210.707 0.492 -980.279
-219.253 0.528 -982.187
-211.949 0.408 -974.712
-220.496 0.44 -976.619
+210.707 0.531 -980.279
+219.253 0.568 -982.187
+211.949 0.448 -974.712
+220.496 0.48 -976.619
+223.526 0.375 -969.323
+214.98 0.348 -967.415
+222.283 0.454 -974.891
+213.737 0.426 -972.983
 numsurf 2
 SURF 0
 mat 0

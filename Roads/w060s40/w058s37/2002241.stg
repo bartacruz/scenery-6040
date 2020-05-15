@@ -1,6 +1,7 @@
 # osm2roads_w060s40_w058s37_2002241
 # do not edit below this line
-# Last Written Tue Apr  2 01:04:20 2019
+# Last Written Tue Apr 21 12:16:32 2020
 #
-OBJECT_ROAD_ROUGH w060s40_w058s37_2002241roads_rough1004.ac -57.51427 -36.91890 4.57 0
+OBJECT_ROAD_ROUGH w060s40_w058s37_2002241roads_rough0005.ac -57.73877 -36.90088 8.29 0
+OBJECT_ROAD_ROUGH w060s40_w058s37_2002241roads_rough1004.ac -57.51427 -36.91890 4.53 0
 # END osm2roads_w060s40_w058s37_2002241

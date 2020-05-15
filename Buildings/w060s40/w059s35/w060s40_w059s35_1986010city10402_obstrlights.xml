@@ -6,7 +6,7 @@
   <offsets>
     <x-m>-115.737</x-m>
     <y-m>-680.372</y-m>
-    <z-m>92.9527</z-m>
+    <z-m>125.573</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -17,7 +17,7 @@
   <offsets>
     <x-m>-108.383</x-m>
     <y-m>-709.197</y-m>
-    <z-m>92.9527</z-m>
+    <z-m>125.573</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -28,7 +28,7 @@
   <offsets>
     <x-m>-102.425</x-m>
     <y-m>-699.377</y-m>
-    <z-m>92.9527</z-m>
+    <z-m>125.573</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -39,7 +39,7 @@
   <offsets>
     <x-m>-107.362</x-m>
     <y-m>-688.76</y-m>
-    <z-m>92.9527</z-m>
+    <z-m>125.573</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -50,7 +50,7 @@
   <offsets>
     <x-m>-147.153</x-m>
     <y-m>-739.124</y-m>
-    <z-m>120.599</z-m>
+    <z-m>121.219</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -61,7 +61,7 @@
   <offsets>
     <x-m>-147.375</x-m>
     <y-m>-766.646</y-m>
-    <z-m>120.599</z-m>
+    <z-m>121.219</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -72,7 +72,7 @@
   <offsets>
     <x-m>-129.005</x-m>
     <y-m>-766.784</y-m>
-    <z-m>120.599</z-m>
+    <z-m>121.219</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -83,7 +83,7 @@
   <offsets>
     <x-m>-128.794</x-m>
     <y-m>-739.271</y-m>
-    <z-m>120.599</z-m>
+    <z-m>121.219</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -94,7 +94,7 @@
   <offsets>
     <x-m>-99.1862</x-m>
     <y-m>-763.911</y-m>
-    <z-m>121.105</z-m>
+    <z-m>121.725</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -105,7 +105,7 @@
   <offsets>
     <x-m>-99.5967</x-m>
     <y-m>-792.314</y-m>
-    <z-m>121.105</z-m>
+    <z-m>121.725</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -116,7 +116,7 @@
   <offsets>
     <x-m>-80.6716</x-m>
     <y-m>-792.599</y-m>
-    <z-m>121.105</z-m>
+    <z-m>121.725</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -127,7 +127,7 @@
   <offsets>
     <x-m>-80.2611</x-m>
     <y-m>-764.186</y-m>
-    <z-m>121.105</z-m>
+    <z-m>121.725</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -136,9 +136,9 @@
 <model>
   <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
   <offsets>
-    <x-m>252.663</x-m>
-    <y-m>-158.614</y-m>
-    <z-m>80.098</z-m>
+    <x-m>252.175</x-m>
+    <y-m>-161.817</y-m>
+    <z-m>80.3895</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -147,9 +147,9 @@
 <model>
   <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
   <offsets>
-    <x-m>237.564</x-m>
-    <y-m>-182.053</y-m>
-    <z-m>80.098</z-m>
+    <x-m>237.076</x-m>
+    <y-m>-185.256</y-m>
+    <z-m>80.3895</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -158,9 +158,9 @@
 <model>
   <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
   <offsets>
-    <x-m>260.082</x-m>
-    <y-m>-196.558</y-m>
-    <z-m>80.098</z-m>
+    <x-m>259.593</x-m>
+    <y-m>-199.761</y-m>
+    <z-m>80.3895</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -169,9 +169,9 @@
 <model>
   <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
   <offsets>
-    <x-m>275.18</x-m>
-    <y-m>-173.119</y-m>
-    <z-m>80.098</z-m>
+    <x-m>274.692</x-m>
+    <y-m>-176.322</y-m>
+    <z-m>80.3895</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -182,7 +182,7 @@
   <offsets>
     <x-m>-68.5355</x-m>
     <y-m>-703.654</y-m>
-    <z-m>88.8598</z-m>
+    <z-m>121.479</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -193,7 +193,7 @@
   <offsets>
     <x-m>-61.1363</x-m>
     <y-m>-732.562</y-m>
-    <z-m>88.8598</z-m>
+    <z-m>121.479</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -204,7 +204,7 @@
   <offsets>
     <x-m>-55.2347</x-m>
     <y-m>-722.779</y-m>
-    <z-m>88.8598</z-m>
+    <z-m>121.479</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -215,7 +215,7 @@
   <offsets>
     <x-m>-60.2489</x-m>
     <y-m>-712.06</y-m>
-    <z-m>88.8598</z-m>
+    <z-m>121.479</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -224,9 +224,9 @@
 <model>
   <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
   <offsets>
-    <x-m>-496.66</x-m>
-    <y-m>-249.568</y-m>
-    <z-m>102.845</z-m>
+    <x-m>-513.575</x-m>
+    <y-m>-261.678</y-m>
+    <z-m>102.528</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -235,9 +235,9 @@
 <model>
   <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
   <offsets>
-    <x-m>-509.621</x-m>
-    <y-m>-262.48</y-m>
-    <z-m>102.845</z-m>
+    <x-m>-487.706</x-m>
+    <y-m>-288.025</y-m>
+    <z-m>102.528</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -246,9 +246,9 @@
 <model>
   <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
   <offsets>
-    <x-m>-496.944</x-m>
-    <y-m>-275.206</y-m>
-    <z-m>102.845</z-m>
+    <x-m>-473.717</x-m>
+    <y-m>-274.288</y-m>
+    <z-m>102.528</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -257,9 +257,9 @@
 <model>
   <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
   <offsets>
-    <x-m>-483.982</x-m>
-    <y-m>-262.295</y-m>
-    <z-m>102.845</z-m>
+    <x-m>-499.585</x-m>
+    <y-m>-247.942</y-m>
+    <z-m>102.528</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -268,9 +268,9 @@
 <model>
   <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
   <offsets>
-    <x-m>-512.374</x-m>
-    <y-m>-190.684</y-m>
-    <z-m>62.2776</z-m>
+    <x-m>-509.213</x-m>
+    <y-m>-194.043</y-m>
+    <z-m>62.5702</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -279,9 +279,9 @@
 <model>
   <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
   <offsets>
-    <x-m>-529.277</x-m>
-    <y-m>-212.17</y-m>
-    <z-m>62.2776</z-m>
+    <x-m>-526.115</x-m>
+    <y-m>-215.529</y-m>
+    <z-m>62.5702</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -290,9 +290,9 @@
 <model>
   <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
   <offsets>
-    <x-m>-513.233</x-m>
-    <y-m>-224.791</y-m>
-    <z-m>62.2776</z-m>
+    <x-m>-510.072</x-m>
+    <y-m>-228.15</y-m>
+    <z-m>62.5702</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -301,53 +301,9 @@
 <model>
   <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
   <offsets>
-    <x-m>-496.331</x-m>
-    <y-m>-203.305</y-m>
-    <z-m>62.2776</z-m>
-    <pitch-deg> 0.00</pitch-deg>
-    <heading-deg>0.0 </heading-deg>
-  </offsets>
-</model>
-
-<model>
-  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
-  <offsets>
-    <x-m>337.378</x-m>
-    <y-m>-960.412</y-m>
-    <z-m>70.6008</z-m>
-    <pitch-deg> 0.00</pitch-deg>
-    <heading-deg>0.0 </heading-deg>
-  </offsets>
-</model>
-
-<model>
-  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
-  <offsets>
-    <x-m>363.547</x-m>
-    <y-m>-944.857</y-m>
-    <z-m>70.6008</z-m>
-    <pitch-deg> 0.00</pitch-deg>
-    <heading-deg>0.0 </heading-deg>
-  </offsets>
-</model>
-
-<model>
-  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
-  <offsets>
-    <x-m>350.324</x-m>
-    <y-m>-929.311</y-m>
-    <z-m>70.6008</z-m>
-    <pitch-deg> 0.00</pitch-deg>
-    <heading-deg>0.0 </heading-deg>
-  </offsets>
-</model>
-
-<model>
-  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
-  <offsets>
-    <x-m>323.312</x-m>
-    <y-m>-943.168</y-m>
-    <z-m>70.6008</z-m>
+    <x-m>-493.17</x-m>
+    <y-m>-206.663</y-m>
+    <z-m>62.5702</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -358,7 +314,7 @@
   <offsets>
     <x-m>568.033</x-m>
     <y-m>-882.793</y-m>
-    <z-m>78.2986</z-m>
+    <z-m>78.9401</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -369,7 +325,7 @@
   <offsets>
     <x-m>583.097</x-m>
     <y-m>-855.037</y-m>
-    <z-m>78.2986</z-m>
+    <z-m>78.9401</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -380,7 +336,7 @@
   <offsets>
     <x-m>590.9</x-m>
     <y-m>-846.054</y-m>
-    <z-m>78.2986</z-m>
+    <z-m>78.9401</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -391,7 +347,7 @@
   <offsets>
     <x-m>559.232</x-m>
     <y-m>-875.147</y-m>
-    <z-m>78.2986</z-m>
+    <z-m>78.9401</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -402,7 +358,7 @@
   <offsets>
     <x-m>554.414</x-m>
     <y-m>-877.309</y-m>
-    <z-m>69.6896</z-m>
+    <z-m>70.9341</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -413,7 +369,7 @@
   <offsets>
     <x-m>546.244</x-m>
     <y-m>-853.923</y-m>
-    <z-m>69.6896</z-m>
+    <z-m>70.9341</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -424,7 +380,7 @@
   <offsets>
     <x-m>525.403</x-m>
     <y-m>-876.976</y-m>
-    <z-m>69.6896</z-m>
+    <z-m>70.9341</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -435,7 +391,7 @@
   <offsets>
     <x-m>547.284</x-m>
     <y-m>-870.863</y-m>
-    <z-m>69.6896</z-m>
+    <z-m>70.9341</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -444,9 +400,9 @@
 <model>
   <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
   <offsets>
-    <x-m>739.463</x-m>
-    <y-m>-663.125</y-m>
-    <z-m>88.8897</z-m>
+    <x-m>731.552</x-m>
+    <y-m>-664.211</y-m>
+    <z-m>89.692</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -455,9 +411,9 @@
 <model>
   <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
   <offsets>
-    <x-m>764.06</x-m>
-    <y-m>-617.521</y-m>
-    <z-m>88.8897</z-m>
+    <x-m>756.183</x-m>
+    <y-m>-618.171</y-m>
+    <z-m>89.692</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -466,9 +422,9 @@
 <model>
   <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
   <offsets>
-    <x-m>752.721</x-m>
-    <y-m>-608.992</y-m>
-    <z-m>88.8897</z-m>
+    <x-m>744.153</x-m>
+    <y-m>-611.735</y-m>
+    <z-m>89.692</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -477,9 +433,9 @@
 <model>
   <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
   <offsets>
-    <x-m>727.904</x-m>
-    <y-m>-657.171</y-m>
-    <z-m>88.8897</z-m>
+    <x-m>719.523</x-m>
+    <y-m>-657.776</y-m>
+    <z-m>89.692</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -488,9 +444,9 @@
 <model>
   <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
   <offsets>
-    <x-m>712.318</x-m>
-    <y-m>-621.886</y-m>
-    <z-m>72.8849</z-m>
+    <x-m>700.692</x-m>
+    <y-m>-622.918</y-m>
+    <z-m>75.2316</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -499,9 +455,9 @@
 <model>
   <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
   <offsets>
-    <x-m>727.564</x-m>
-    <y-m>-589.276</y-m>
-    <z-m>72.8849</z-m>
+    <x-m>716.312</x-m>
+    <y-m>-590.059</y-m>
+    <z-m>75.2316</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -510,9 +466,9 @@
 <model>
   <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
   <offsets>
-    <x-m>716.423</x-m>
-    <y-m>-581.571</y-m>
-    <z-m>72.8849</z-m>
+    <x-m>704.422</x-m>
+    <y-m>-584.406</y-m>
+    <z-m>75.2316</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -521,9 +477,9 @@
 <model>
   <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
   <offsets>
-    <x-m>700.369</x-m>
-    <y-m>-616.373</y-m>
-    <z-m>72.8849</z-m>
+    <x-m>688.802</x-m>
+    <y-m>-617.266</y-m>
+    <z-m>75.2316</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -532,9 +488,9 @@
 <model>
   <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
   <offsets>
-    <x-m>699.817</x-m>
-    <y-m>-625.391</y-m>
-    <z-m>83.2609</z-m>
+    <x-m>-1296.83</x-m>
+    <y-m>1880.28</y-m>
+    <z-m>103.397</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -543,9 +499,9 @@
 <model>
   <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
   <offsets>
-    <x-m>656.914</x-m>
-    <y-m>-609.277</y-m>
-    <z-m>83.2609</z-m>
+    <x-m>-1301.84</x-m>
+    <y-m>1867.38</y-m>
+    <z-m>103.397</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -554,9 +510,9 @@
 <model>
   <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
   <offsets>
-    <x-m>652.118</x-m>
-    <y-m>-621.578</y-m>
-    <z-m>83.2609</z-m>
+    <x-m>-1259.14</x-m>
+    <y-m>1850.77</y-m>
+    <z-m>103.397</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -565,9 +521,9 @@
 <model>
   <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
   <offsets>
-    <x-m>694.814</x-m>
-    <y-m>-638.224</y-m>
-    <z-m>83.2609</z-m>
+    <x-m>-1254.17</x-m>
+    <y-m>1863.53</y-m>
+    <z-m>103.397</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -576,9 +532,9 @@
 <model>
   <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
   <offsets>
-    <x-m>636.219</x-m>
-    <y-m>-787.689</y-m>
-    <z-m>124.352</z-m>
+    <x-m>-1336.37</x-m>
+    <y-m>1730.01</y-m>
+    <z-m>128.618</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -587,9 +543,9 @@
 <model>
   <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
   <offsets>
-    <x-m>653.257</x-m>
-    <y-m>-751.409</y-m>
-    <z-m>124.352</z-m>
+    <x-m>-1336.74</x-m>
+    <y-m>1718.19</y-m>
+    <z-m>128.618</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -598,9 +554,9 @@
 <model>
   <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
   <offsets>
-    <x-m>626.37</x-m>
-    <y-m>-738.783</y-m>
-    <z-m>124.352</z-m>
+    <x-m>-1323.14</x-m>
+    <y-m>1709.86</y-m>
+    <z-m>128.618</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -609,9 +565,9 @@
 <model>
   <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
   <offsets>
-    <x-m>611.326</x-m>
-    <y-m>-770.817</y-m>
-    <z-m>124.352</z-m>
+    <x-m>-1308.91</x-m>
+    <y-m>1739.25</y-m>
+    <z-m>128.618</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -620,9 +576,9 @@
 <model>
   <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
   <offsets>
-    <x-m>616.806</x-m>
-    <y-m>-835.199</y-m>
-    <z-m>131.785</z-m>
+    <x-m>592.512</x-m>
+    <y-m>-808.209</y-m>
+    <z-m>127.644</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -631,9 +587,9 @@
 <model>
   <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
   <offsets>
-    <x-m>632.569</x-m>
-    <y-m>-807.769</y-m>
-    <z-m>131.785</z-m>
+    <x-m>592.135</x-m>
+    <y-m>-820.029</y-m>
+    <z-m>127.644</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -642,9 +598,9 @@
 <model>
   <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
   <offsets>
-    <x-m>610.904</x-m>
-    <y-m>-788.827</y-m>
-    <z-m>131.785</z-m>
+    <x-m>609.767</x-m>
+    <y-m>-827.963</y-m>
+    <z-m>127.644</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -653,9 +609,9 @@
 <model>
   <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
   <offsets>
-    <x-m>597.115</x-m>
-    <y-m>-815.689</y-m>
-    <z-m>131.785</z-m>
+    <x-m>603.317</x-m>
+    <y-m>-791.094</y-m>
+    <z-m>127.644</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>

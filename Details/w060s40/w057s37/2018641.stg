@@ -1,12 +1,12 @@
 # piers_w060s40_w057s37_2018641
 # do not edit below this line
-# Last Written Tue Apr  2 01:06:50 2019
+# Last Written Tue Apr 21 12:34:51 2020
 #
 OBJECT_STATIC w060s40_w057s37_2018641piers0302.ac -56.67168 -36.70494 0.00 0
 OBJECT_STATIC w060s40_w057s37_2018641piers0305.ac -56.67168 -36.65088 0.00 0
-OBJECT_SHARED Models/Maritime/Civilian/barge.xml -56.67297 -36.71014 -0.18 -14.0616
-OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac -56.67147 -36.71002 -0.20 113.753
-OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac -56.67145 -36.71016 -0.20 113.747
-OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac -56.68013 -36.65856 -0.05 28.7841
-OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -56.67898 -36.65848 -0.05 -85.0088
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -56.67906 -36.65862 -0.06 -85.2894
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -56.67909 -36.65841 -0.06 93.657
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -56.67909 -36.65841 -0.06 93.657
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -56.67906 -36.65862 -0.06 -85.2894
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -56.67906 -36.65862 -0.06 -85.2894
 # END piers_w060s40_w057s37_2018641

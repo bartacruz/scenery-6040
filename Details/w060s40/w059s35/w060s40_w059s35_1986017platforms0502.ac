@@ -1,20 +1,20 @@
 AC3Db
-MATERIAL "unlit" rgb 0.000 0.000 0.000 amb 1 1 1 emis 0 0 0 spec 0.5 0.5 0.5 shi 64 trans 0
-MATERIAL "lit" rgb 1.000 1.000 1.000 amb 1 1 1 emis 0 0 0 spec 0.5 0.5 0.5 shi 64 trans 0
+MATERIAL "unlit" rgb 0.000 0.000 0.000 amb 1 1 1 emis 0 0 0 spec 0.0 0.0 0.0 shi 0 trans 0
+MATERIAL "lit" rgb 1.000 1.000 1.000 amb 1 1 1 emis 0 0 0 spec 0.0 0.0 0.0 shi 0 trans 0
 OBJECT world
 kids 1
 OBJECT poly
 name "platforms"
 texture "Textures/Terrain/asphalt.png"
 numvert 8
-66.4868 9.533 -906.23
+66.4868 9.534 -906.23
 157.228 8.82 -1021.92
 160.375 8.878 -1019.45
-69.6341 9.534 -903.761
-66.4868 9.533 -906.23
+69.6341 9.532 -903.761
+66.4868 9.534 -906.23
 157.228 8.82 -1021.92
 160.375 8.878 -1019.45
-69.6341 9.534 -903.761
+69.6341 9.532 -903.761
 numsurf 5
 SURF 0
 mat 0

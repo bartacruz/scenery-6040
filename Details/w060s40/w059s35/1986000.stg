@@ -1,17 +1,18 @@
 # platforms_w060s40_w059s35_1986000
 # do not edit below this line
-# Last Written Tue Apr  2 01:56:25 2019
+# Last Written Mon Apr 20 20:57:57 2020
 #
 OBJECT_STATIC w060s40_w059s35_1986000platforms0606.ac -58.85813 -34.63281 0.00 0
 OBJECT_STATIC w060s40_w059s35_1986000platforms0706.ac -58.83631 -34.63281 0.00 0
 OBJECT_STATIC w060s40_w059s35_1986000platforms0901.ac -58.79265 -34.72296 0.00 0
 OBJECT_STATIC w060s40_w059s35_1986000platforms0905.ac -58.79265 -34.65084 0.00 0
+OBJECT_STATIC w060s40_w059s35_1986000platforms1002.ac -58.77083 -34.70493 0.00 0
 OBJECT_STATIC w060s40_w059s35_1986000platforms1003.ac -58.77083 -34.68690 0.00 0
 OBJECT_STATIC w060s40_w059s35_1986000platforms1005.ac -58.77083 -34.65084 0.00 0
 # END platforms_w060s40_w059s35_1986000
 # tree_rows_w060s40_w059s35_1986000
 # do not edit below this line
-# Last Written Tue Apr  2 01:56:25 2019
+# Last Written Mon Apr 20 20:57:57 2020
 #
 OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.79596 -34.66196 24.01 0
 OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.79589 -34.66203 24.08 0
@@ -19,4 +20,12 @@ OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.79582 -34.66210 24.14 0
 OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.79575 -34.66217 24.21 0
 OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.79568 -34.66224 24.29 0
 OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.79561 -34.66231 24.37 0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.79005 -34.62559 20.42 0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.78996 -34.62554 20.57 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -58.78988 -34.62548 20.71 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -58.78979 -34.62542 20.85 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -58.78971 -34.62537 21.00 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -58.78962 -34.62531 21.15 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -58.78954 -34.62525 21.30 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -58.78945 -34.62520 21.44 0
 # END tree_rows_w060s40_w059s35_1986000

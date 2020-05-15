@@ -1,13 +1,13 @@
 # piers_w060s40_w057s37_2018665
 # do not edit below this line
-# Last Written Tue Apr  2 01:06:43 2019
+# Last Written Tue Apr 21 12:36:27 2020
 #
 OBJECT_STATIC w060s40_w057s37_2018665piers0101.ac -56.71659 -36.34796 0.00 0
-OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -56.71659 -36.35525 -0.08 -103.135
-OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -56.71697 -36.35516 -0.08 77.1872
-OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -56.71697 -36.35516 -0.08 77.1872
-OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -56.71697 -36.35516 -0.08 77.1872
-OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac -56.71494 -36.35457 -0.08 337.043
-OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -56.71659 -36.35525 -0.08 -103.135
-OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -56.71659 -36.35525 -0.08 -103.135
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac -56.71636 -36.35517 -0.10 66.2214
+OBJECT_SHARED Models/Maritime/Civilian/small-red-yacht.ac -56.71708 -36.35519 -0.10 244.276
+OBJECT_SHARED Models/Maritime/Civilian/wide_red_yacht.ac -56.71647 -36.35497 -0.10 245.924
+OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac -56.71647 -36.35497 -0.10 245.924
+OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac -56.71584 -36.35474 -0.10 246.064
+OBJECT_SHARED Models/Maritime/Civilian/small-clear-yacht.ac -56.71636 -36.35517 -0.10 66.2214
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac -56.71636 -36.35517 -0.10 66.2214
 # END piers_w060s40_w057s37_2018665

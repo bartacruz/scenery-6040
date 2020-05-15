@@ -1,16 +1,85 @@
+# pylonsDetails_w060s40_w059s35_1986003
+# do not edit below this line
+# Last Written Tue Apr 21 02:22:50 2020
+#
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.23758 -34.74988 10.18 -48.0081
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.23801 -34.74947 10.61 -48.6256
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.23844 -34.74907 11.18 -49.9121
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.23885 -34.74865 11.54 -51.3466
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.23926 -34.74822 11.83 -51.5289
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.23967 -34.74780 12.12 -51.5334
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.24008 -34.74738 12.45 -51.5402
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.24048 -34.74695 12.17 -51.5425
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.24089 -34.74653 11.89 -51.5425
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.24130 -34.74611 11.61 -51.5425
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.24170 -34.74568 11.91 -51.5425
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.24211 -34.74526 12.36 -51.5425
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.24252 -34.74484 12.81 -51.5425
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.24293 -34.74441 13.26 -51.5425
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.24333 -34.74399 13.97 -52.0637
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.24373 -34.74356 14.36 -53.2749
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.24412 -34.74312 14.76 -53.9651
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.24450 -34.74269 14.78 -53.9651
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.24489 -34.74225 15.41 -53.9651
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.24527 -34.74181 16.04 -53.9651
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.24566 -34.74137 16.40 -53.9651
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.24604 -34.74094 16.58 -54.2328
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.24642 -34.74050 18.26 -54.7376
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.24680 -34.74005 19.25 -54.9745
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.24717 -34.73961 19.43 -54.9745
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.24755 -34.73917 19.97 -54.9745
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.24792 -34.73872 20.52 -54.9745
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.24830 -34.73828 21.05 -55.0968
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.24867 -34.73784 21.60 -55.2725
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.24905 -34.73739 22.14 -55.326
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.24925 -34.73715 22.23 -55.326
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.24993 -34.73649 21.59 125.547
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.24954 -34.73693 21.58 125.21
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.24917 -34.73738 22.16 124.761
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.24880 -34.73782 21.61 124.683
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.24842 -34.73827 21.08 124.87
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.24805 -34.73871 20.53 125.023
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.24767 -34.73915 19.99 125.023
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.24730 -34.73960 19.45 125.023
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.24692 -34.74004 19.49 125.023
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.24655 -34.74048 18.65 125.194
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.24617 -34.74092 16.97 125.7
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.24578 -34.74136 16.43 126.035
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.24540 -34.74180 16.50 126.035
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.24501 -34.74223 15.87 126.035
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.24463 -34.74267 15.24 126.035
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.24424 -34.74311 14.83 126.035
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.24386 -34.74355 14.78 126.562
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.24346 -34.74398 14.30 127.774
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.24305 -34.74440 13.53 128.458
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.24265 -34.74483 13.08 128.458
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.24224 -34.74525 12.63 128.458
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.24183 -34.74567 12.19 128.458
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.24142 -34.74610 11.72 128.458
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.24102 -34.74652 12.00 128.458
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.24061 -34.74694 12.28 128.458
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.24020 -34.74737 12.50 128.479
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.23979 -34.74779 12.14 128.581
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.23939 -34.74821 11.86 128.662
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.23898 -34.74864 11.57 128.555
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.23857 -34.74906 11.22 129.707
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.23814 -34.74947 10.65 131.033
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac -58.23781 -34.74978 10.22 131.1
+OBJECT_STATIC w060s40_w059s35_1986003dcables00001.ac -58.24431 -34.74252 16.75 90
+# END pylonsDetails_w060s40_w059s35_1986003
 # piers_w060s40_w059s35_1986003
 # do not edit below this line
-# Last Written Tue Apr  2 03:10:47 2019
+# Last Written Tue Apr 21 02:22:50 2020
 #
 OBJECT_STATIC w060s40_w059s35_1986003piers0102.ac -58.21726 -34.70493 0.00 0
-OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac -58.22104 -34.70900 -3.90 55.4827
-OBJECT_SHARED Models/Maritime/Civilian/LargeTrawler.xml -58.21940 -34.70805 -3.90 -115.247
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac -58.22104 -34.70900 -0.53 55.4827
+OBJECT_SHARED Models/Maritime/Civilian/LargeTrawler.xml -58.21940 -34.70805 -0.53 -115.247
 # END piers_w060s40_w059s35_1986003
 # tree_rows_w060s40_w059s35_1986003
 # do not edit below this line
-# Last Written Tue Apr  2 03:10:47 2019
+# Last Written Tue Apr 21 02:22:50 2020
 #
-OBJECT_SHARED Models/Trees/deciduous-tree.xml -58.21889 -34.71768 3.93 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -58.21889 -34.71768 3.77 0
 OBJECT_SHARED Models/Trees/deciduous-tree.xml -58.21882 -34.71761 3.66 0
 OBJECT_SHARED Models/Trees/deciduous-tree.xml -58.21875 -34.71754 3.53 0
 OBJECT_SHARED Models/Trees/deciduous-tree.xml -58.21868 -34.71747 3.40 0
@@ -32,14 +101,14 @@ OBJECT_SHARED Models/Trees/deciduous-tree3.xml -58.21689 -34.71739 3.20 0
 OBJECT_SHARED Models/Trees/deciduous-tree3.xml -58.21682 -34.71731 3.21 0
 OBJECT_SHARED Models/Trees/deciduous-tree3.xml -58.21676 -34.71724 3.22 0
 OBJECT_SHARED Models/Trees/deciduous-tree.xml -58.21669 -34.71717 3.23 0
-OBJECT_SHARED Models/Trees/deciduous-tree.xml -58.24445 -34.69864 3.75 0
-OBJECT_SHARED Models/Trees/deciduous-tree.xml -58.24443 -34.69873 3.76 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -58.24445 -34.69864 3.69 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -58.24443 -34.69873 3.73 0
 OBJECT_SHARED Models/Trees/deciduous-tree.xml -58.24441 -34.69882 3.76 0
 OBJECT_SHARED Models/Trees/deciduous-tree.xml -58.24439 -34.69891 3.63 0
 OBJECT_SHARED Models/Trees/deciduous-tree.xml -58.24436 -34.69900 3.51 0
-OBJECT_SHARED Models/Trees/deciduous-tree.xml -58.24434 -34.69908 3.38 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -58.24434 -34.69908 3.39 0
 OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.24432 -34.69917 3.26 0
-OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.24430 -34.69926 3.15 0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.24430 -34.69926 3.14 0
 OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.24428 -34.69935 3.03 0
 OBJECT_SHARED Models/Trees/deciduous-tree.xml -58.24425 -34.69944 3.01 0
 OBJECT_SHARED Models/Trees/deciduous-tree.xml -58.24423 -34.69953 2.99 0
@@ -68,7 +137,7 @@ OBJECT_SHARED Models/Trees/coniferous-tree3.xml -58.24375 -34.70147 3.78 0
 OBJECT_SHARED Models/Trees/coniferous-tree3.xml -58.24373 -34.70155 3.79 0
 OBJECT_SHARED Models/Trees/coniferous-tree3.xml -58.24371 -34.70164 3.69 0
 OBJECT_SHARED Models/Trees/deciduous-tree2.xml -58.24369 -34.70173 3.50 0
-OBJECT_SHARED Models/Trees/deciduous-tree2.xml -58.24366 -34.70185 3.36 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -58.24366 -34.70185 3.37 0
 OBJECT_SHARED Models/Trees/coniferous-tree3.xml -58.24363 -34.70194 3.45 0
 OBJECT_SHARED Models/Trees/coniferous-tree3.xml -58.24361 -34.70203 2.25 0
 OBJECT_SHARED Models/Trees/coniferous-tree3.xml -58.24359 -34.70211 2.22 0
@@ -203,21 +272,21 @@ OBJECT_SHARED Models/Trees/deciduous-tree.xml -58.22873 -34.70761 5.01 0
 OBJECT_SHARED Models/Trees/deciduous-tree.xml -58.22862 -34.70764 4.90 0
 OBJECT_SHARED Models/Trees/deciduous-tree3.xml -58.22852 -34.70767 4.79 0
 OBJECT_SHARED Models/Trees/coniferous-tree3.xml -58.22841 -34.70770 4.67 0
-OBJECT_SHARED Models/Trees/coniferous-tree3.xml -58.22831 -34.70773 4.56 0
+OBJECT_SHARED Models/Trees/coniferous-tree3.xml -58.22831 -34.70773 4.55 0
 OBJECT_SHARED Models/Trees/coniferous-tree3.xml -58.22821 -34.70776 4.44 0
 OBJECT_SHARED Models/Trees/coniferous-tree3.xml -58.22810 -34.70778 4.33 0
 OBJECT_SHARED Models/Trees/coniferous-tree3.xml -58.22800 -34.70781 4.17 0
 OBJECT_SHARED Models/Trees/deciduous-tree3.xml -58.22790 -34.70784 4.04 0
 OBJECT_SHARED Models/Trees/deciduous-tree3.xml -58.22779 -34.70787 3.96 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml -58.23039 -34.70714 4.84 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml -58.23028 -34.70717 4.82 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml -58.23018 -34.70720 4.80 0
-OBJECT_SHARED Models/Trees/deciduous-tree2.xml -58.23008 -34.70723 4.78 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml -58.22997 -34.70726 4.76 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml -58.22987 -34.70729 4.74 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml -58.22977 -34.70732 4.72 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml -58.23039 -34.70714 4.75 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml -58.23028 -34.70717 4.74 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml -58.23018 -34.70720 4.73 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -58.23008 -34.70723 4.72 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml -58.22997 -34.70726 4.71 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml -58.22987 -34.70729 4.70 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml -58.22977 -34.70732 4.69 0
 OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.22966 -34.70735 4.69 0
-OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.22956 -34.70738 4.71 0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.22956 -34.70738 4.70 0
 OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.22946 -34.70741 4.76 0
 OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.22935 -34.70744 4.82 0
 OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.22925 -34.70747 4.88 0
@@ -239,7 +308,7 @@ OBJECT_SHARED Models/Trees/coniferous-tree3.xml -58.23865 -34.70565 5.31 0
 OBJECT_SHARED Models/Trees/deciduous-tree.xml -58.23857 -34.70571 5.37 0
 OBJECT_SHARED Models/Trees/deciduous-tree.xml -58.23848 -34.70576 5.42 0
 OBJECT_SHARED Models/Trees/deciduous-tree.xml -58.23839 -34.70582 5.47 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml -58.23831 -34.70587 5.53 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml -58.23831 -34.70587 5.52 0
 OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.23822 -34.70593 5.58 0
 OBJECT_SHARED Models/Trees/large_tree_erected.xml -58.23813 -34.70598 5.63 0
 OBJECT_SHARED Models/Trees/coniferous-tree3.xml -58.23805 -34.70604 5.68 0
@@ -251,17 +320,17 @@ OBJECT_SHARED Models/Trees/deciduous-tree.xml -58.23761 -34.70631 5.95 0
 OBJECT_SHARED Models/Trees/deciduous-tree.xml -58.23753 -34.70637 5.90 0
 OBJECT_SHARED Models/Trees/deciduous-tree.xml -58.23744 -34.70642 5.83 0
 OBJECT_SHARED Models/Trees/deciduous-tree.xml -58.23735 -34.70648 5.75 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml -58.23727 -34.70653 5.72 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml -58.23727 -34.70653 5.73 0
 OBJECT_SHARED Models/Trees/deciduous-tree3.xml -58.23718 -34.70659 5.87 0
 OBJECT_SHARED Models/Trees/deciduous-tree3.xml -58.23709 -34.70664 5.99 0
 OBJECT_SHARED Models/Trees/deciduous-tree3.xml -58.23701 -34.70670 6.04 0
 OBJECT_SHARED Models/Trees/deciduous-tree.xml -58.23692 -34.70675 6.07 0
-OBJECT_SHARED Models/Trees/deciduous-tree.xml -58.23683 -34.70681 6.08 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -58.23683 -34.70681 6.09 0
 OBJECT_SHARED Models/Trees/deciduous-tree.xml -58.23675 -34.70686 6.10 0
 OBJECT_SHARED Models/Trees/deciduous-tree.xml -58.23666 -34.70692 6.12 0
 OBJECT_SHARED Models/Trees/deciduous-tree.xml -58.23657 -34.70697 6.13 0
-OBJECT_SHARED Models/Trees/deciduous-tree.xml -58.23648 -34.70703 6.14 0
-OBJECT_SHARED Models/Trees/coniferous-tree3.xml -58.23640 -34.70708 6.16 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -58.23648 -34.70703 6.15 0
+OBJECT_SHARED Models/Trees/coniferous-tree3.xml -58.23640 -34.70708 6.17 0
 OBJECT_SHARED Models/Trees/coniferous-tree3.xml -58.23631 -34.70714 6.18 0
 OBJECT_SHARED Models/Trees/coniferous-tree3.xml -58.23622 -34.70719 6.20 0
 OBJECT_SHARED Models/Trees/coniferous-tree3.xml -58.23614 -34.70725 6.27 0
@@ -274,4 +343,11 @@ OBJECT_SHARED Models/Trees/deciduous-tree2.xml -58.23560 -34.70764 6.22 0
 OBJECT_SHARED Models/Trees/deciduous-tree2.xml -58.23550 -34.70772 6.17 0
 OBJECT_SHARED Models/Trees/deciduous-tree.xml -58.23548 -34.70781 6.08 0
 OBJECT_SHARED Models/Trees/deciduous-tree.xml -58.23547 -34.70790 6.02 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -58.18076 -34.74607 4.30 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -58.18085 -34.74612 4.07 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -58.18094 -34.74617 3.83 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -58.18103 -34.74622 3.65 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -58.18113 -34.74627 3.61 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml -58.18122 -34.74632 3.58 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml -58.18131 -34.74636 3.54 0
 # END tree_rows_w060s40_w059s35_1986003

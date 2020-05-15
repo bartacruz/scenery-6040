@@ -1,16 +1,17 @@
 # piers_w060s40_w057s37_2018649
 # do not edit below this line
-# Last Written Tue Apr  2 01:06:34 2019
+# Last Written Tue Apr 21 12:35:50 2020
 #
 OBJECT_STATIC w060s40_w057s37_2018649piers0202.ac -56.69415 -36.57994 0.00 0
 OBJECT_STATIC w060s40_w057s37_2018649piers0204.ac -56.69415 -36.54390 0.00 0
-OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -56.68699 -36.54172 -0.14 -74.9439
-OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac -56.68586 -36.54166 -0.14 108.004
-OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac -56.68585 -36.54178 -0.14 119.675
-OBJECT_SHARED Models/Maritime/Civilian/wooden_blue_boat.ac -56.68586 -36.54190 -0.14 131.82
-OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac -56.68591 -36.54201 -0.14 142.343
-OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac -56.68488 -36.57718 -0.09 4.32073
-OBJECT_SHARED Models/Maritime/Civilian/small-clear-yacht.ac -56.68488 -36.57718 -0.09 4.32073
-OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac -56.68649 -36.57709 -0.12 93.0131
-OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -56.68564 -36.57712 -0.12 -76.9689
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -56.68682 -36.54188 -0.14 -74.6712
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -56.68682 -36.54188 -0.14 -74.6712
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -56.68679 -36.54165 -0.14 105.571
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -56.68679 -36.54165 -0.14 105.571
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -56.68679 -36.54165 -0.14 105.571
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -56.68682 -36.54188 -0.14 -74.6712
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac -56.68488 -36.57718 -0.04 4.32073
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-11m.ac -56.68488 -36.57718 -0.04 4.32073
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac -56.68649 -36.57709 -0.04 93.0131
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -56.68564 -36.57712 -0.04 -76.9689
 # END piers_w060s40_w057s37_2018649

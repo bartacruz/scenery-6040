@@ -4,9 +4,9 @@
 <model>
   <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
   <offsets>
-    <x-m>216.803</x-m>
-    <y-m>72.1939</y-m>
-    <z-m>58.8514</z-m>
+    <x-m>58.5191</x-m>
+    <y-m>127.777</y-m>
+    <z-m>56.978</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -15,9 +15,9 @@
 <model>
   <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
   <offsets>
-    <x-m>231.819</x-m>
-    <y-m>74.6583</y-m>
-    <z-m>58.8514</z-m>
+    <x-m>44.6564</x-m>
+    <y-m>140.525</y-m>
+    <z-m>56.978</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -26,9 +26,9 @@
 <model>
   <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
   <offsets>
-    <x-m>227.701</x-m>
-    <y-m>90.4373</y-m>
-    <z-m>58.8514</z-m>
+    <x-m>37.0512</x-m>
+    <y-m>132.207</y-m>
+    <z-m>56.978</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -37,53 +37,9 @@
 <model>
   <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
   <offsets>
-    <x-m>214.672</x-m>
-    <y-m>87.3081</y-m>
-    <z-m>58.8514</z-m>
-    <pitch-deg> 0.00</pitch-deg>
-    <heading-deg>0.0 </heading-deg>
-  </offsets>
-</model>
-
-<model>
-  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
-  <offsets>
-    <x-m>104.041</x-m>
-    <y-m>80.035</y-m>
-    <z-m>55.2821</z-m>
-    <pitch-deg> 0.00</pitch-deg>
-    <heading-deg>0.0 </heading-deg>
-  </offsets>
-</model>
-
-<model>
-  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
-  <offsets>
-    <x-m>90.1784</x-m>
-    <y-m>92.7829</y-m>
-    <z-m>55.2821</z-m>
-    <pitch-deg> 0.00</pitch-deg>
-    <heading-deg>0.0 </heading-deg>
-  </offsets>
-</model>
-
-<model>
-  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
-  <offsets>
-    <x-m>82.5732</x-m>
-    <y-m>84.465</y-m>
-    <z-m>55.2821</z-m>
-    <pitch-deg> 0.00</pitch-deg>
-    <heading-deg>0.0 </heading-deg>
-  </offsets>
-</model>
-
-<model>
-  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
-  <offsets>
-    <x-m>96.4723</x-m>
-    <y-m>71.7568</y-m>
-    <z-m>55.2821</z-m>
+    <x-m>50.9503</x-m>
+    <y-m>119.499</y-m>
+    <z-m>56.978</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>

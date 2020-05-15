@@ -1,10 +1,35 @@
+# platforms_w060s40_w060s35_1969643
+# do not edit below this line
+# Last Written Mon Apr 20 19:30:23 2020
+#
+OBJECT_STATIC w060s40_w060s35_1969643platforms0104.ac -59.21741 -34.29387 0.00 0
+OBJECT_STATIC w060s40_w060s35_1969643platforms0604.ac -59.10876 -34.29387 0.00 0
+# END platforms_w060s40_w060s35_1969643
+# piers_w060s40_w060s35_1969643
+# do not edit below this line
+# Last Written Mon Apr 20 19:30:24 2020
+#
+OBJECT_STATIC w060s40_w060s35_1969643piers1104.ac -59.00012 -34.29387 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac -59.00724 -34.29371 15.43 348.888
+OBJECT_SHARED Models/Maritime/Civilian/small-red-yacht.ac -59.00703 -34.29355 15.43 81.0413
+# END piers_w060s40_w060s35_1969643
+# tree_rows_w060s40_w060s35_1969643
+# do not edit below this line
+# Last Written Mon Apr 20 19:30:24 2020
+#
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -59.00016 -34.35203 30.21 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -59.00006 -34.35206 30.23 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml -59.00022 -34.35220 30.23 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml -59.00012 -34.35223 30.25 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml -59.00001 -34.35226 30.27 0
+# END tree_rows_w060s40_w060s35_1969643
 # tree_rows_w060s40_w059s35_1986024
 # do not edit below this line
-# Last Written Tue Apr  2 02:00:13 2019
+# Last Written Mon Apr 20 21:30:33 2020
 #
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml -59.00016 -34.35203 27.50 0
-OBJECT_SHARED Models/Trees/deciduous-tree3.xml -59.00006 -34.35206 26.51 0
-OBJECT_SHARED Models/Trees/coniferous-tree3.xml -59.00022 -34.35220 28.10 0
-OBJECT_SHARED Models/Trees/coniferous-tree3.xml -59.00012 -34.35223 27.11 0
-OBJECT_SHARED Models/Trees/coniferous-tree3.xml -59.00001 -34.35226 26.12 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml -59.00016 -34.35203 -0.19 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml -59.00006 -34.35206 -0.19 0
+OBJECT_SHARED Models/Trees/coniferous-tree3.xml -59.00022 -34.35220 -0.20 0
+OBJECT_SHARED Models/Trees/coniferous-tree3.xml -59.00012 -34.35223 -0.19 0
+OBJECT_SHARED Models/Trees/coniferous-tree3.xml -59.00001 -34.35226 -0.19 0
 # END tree_rows_w060s40_w059s35_1986024

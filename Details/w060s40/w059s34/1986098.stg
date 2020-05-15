@@ -1,9 +1,9 @@
 # piers_w060s40_w059s34_1986098
 # do not edit below this line
-# Last Written Tue Apr  2 01:15:06 2019
+# Last Written Sat Apr 11 21:25:11 2020
 #
 OBJECT_STATIC w060s40_w059s34_1986098piers0604.ac -58.36060 -33.16885 0.00 0
-OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac -58.35982 -33.16480 -0.01 201.677
-OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac -58.36005 -33.16477 -0.01 285.551
-OBJECT_SHARED Models/Maritime/Civilian/small-red-yacht.ac -58.36047 -33.16466 -0.01 284.073
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac -58.35982 -33.16480 -0.00 201.677
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac -58.36005 -33.16477 -0.00 285.551
+OBJECT_SHARED Models/Maritime/Civilian/small-red-yacht.ac -58.36047 -33.16466 -0.00 284.073
 # END piers_w060s40_w059s34_1986098

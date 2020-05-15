@@ -1,6 +1,6 @@
 # piers_w060s40_w059s34_1986050
 # do not edit below this line
-# Last Written Tue Apr  2 01:15:05 2019
+# Last Written Sat Apr 11 21:22:17 2020
 #
 OBJECT_STATIC w060s40_w059s34_1986050piers0306.ac -58.42429 -33.88280 0.00 0
 OBJECT_STATIC w060s40_w059s34_1986050piers0602.ac -58.35939 -33.95492 0.00 0
@@ -25,14 +25,14 @@ OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-11m.ac -58.42264 -33.880
 OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -58.42271 -33.88151 -3.00 14.105
 OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -58.42340 -33.88087 -3.00 -76.5468
 OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -58.42178 -33.88096 -3.00 -76.5989
-OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac -58.36471 -33.94912 2.57 197.078
+OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac -58.36471 -33.94912 2.55 197.078
 OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -58.36421 -33.94892 3.21 116.742
 OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-20m.ac -58.36386 -33.94870 4.18 122.319
 OBJECT_SHARED Models/Maritime/Civilian/wide_red_yacht.ac -58.36368 -33.94848 4.80 112.639
 OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -58.36403 -33.94832 3.33 46.1783
-OBJECT_SHARED Models/Maritime/Civilian/small-clear-yacht.ac -58.36388 -33.95032 -0.95 183.158
-OBJECT_SHARED Models/Maritime/Civilian/blue-sailing-boat-20m.ac -58.36123 -33.95103 -0.00 221.103
+OBJECT_SHARED Models/Maritime/Civilian/small-clear-yacht.ac -58.36388 -33.95032 -1.54 183.158
+OBJECT_SHARED Models/Maritime/Civilian/blue-sailing-boat-20m.ac -58.36123 -33.95103 -1.54 221.103
 OBJECT_SHARED Models/Maritime/Civilian/wide_clear_yacht.ac -58.35887 -33.95351 0.00 251.771
-OBJECT_SHARED Models/Maritime/Civilian/wide_red_yacht.ac -58.35990 -33.95254 0.00 241.228
-OBJECT_SHARED Models/Maritime/Civilian/small-clear-yacht.ac -58.36017 -33.95189 -0.00 242.978
+OBJECT_SHARED Models/Maritime/Civilian/wide_red_yacht.ac -58.35990 -33.95254 -1.54 241.228
+OBJECT_SHARED Models/Maritime/Civilian/small-clear-yacht.ac -58.36017 -33.95189 -1.53 242.978
 # END piers_w060s40_w059s34_1986050

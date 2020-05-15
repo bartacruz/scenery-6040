@@ -1,7 +1,7 @@
 # piers_w060s40_w060s34_1969696
 # do not edit below this line
-# Last Written Tue Apr  2 00:40:44 2019
+# Last Written Sat Apr 11 20:39:45 2020
 #
 OBJECT_STATIC w060s40_w060s34_1969696piers0001.ac -59.98925 -33.47295 0.00 0
-OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -59.99277 -33.48131 -0.00 56.6432
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -59.99277 -33.48131 0.00 56.6432
 # END piers_w060s40_w060s34_1969696
